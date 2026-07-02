@@ -34,7 +34,7 @@ SITEMAP_URL = "https://www.anthropic.com/sitemap.xml"
 SITE_BASE = "https://www.anthropic.com"
 # Public GitHub Pages URL for this feed. Fill in after the repo is created, e.g.
 # "https://elmer.github.io/claude-watcher/". Trailing slash required.
-FEED_PAGE_URL = os.environ.get("FEED_PAGE_URL", "https://example.github.io/claude-watcher/")
+FEED_PAGE_URL = os.environ.get("FEED_PAGE_URL", "https://elmertucker.github.io/claude-watcher/")
 
 MAX_ITEMS = 50  # newest N items included in the generated feeds
 REQUEST_TIMEOUT = 20  # seconds per HTTP request

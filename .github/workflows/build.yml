@@ -23,7 +23,7 @@ permissions:
 
 env:
   # Set to your Pages URL, e.g. https://<user>.github.io/<repo>/ (trailing slash).
-  FEED_PAGE_URL: https://example.github.io/claude-watcher/
+  FEED_PAGE_URL: https://elmertucker.github.io/claude-watcher/
 
 jobs:
   build:
