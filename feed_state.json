@@ -1,0 +1,1874 @@
+{
+  "100k-context-windows": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-05-02T00:49:29.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing 100K Context Windows",
+    "updated": "2025-05-02T00:49:29.000Z",
+    "url": "https://www.anthropic.com/news/100k-context-windows"
+  },
+  "3-5-models-and-computer-use": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCursor&backgroundColor=clay",
+    "published": "2025-07-23T18:02:00.000Z",
+    "summary": "A refreshed, more powerful Claude 3.5 Sonnet, Claude 3.5 Haiku, and a new experimental AI capability: computer use.",
+    "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+    "updated": "2025-07-23T18:02:00.000Z",
+    "url": "https://www.anthropic.com/news/3-5-models-and-computer-use"
+  },
+  "AI-enabled-cyber-threats-mitre-attack": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=cactus",
+    "published": "2026-06-03T16:18:23.000Z",
+    "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.",
+    "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+    "updated": "2026-06-03T16:18:23.000Z",
+    "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+  },
+  "Introducing-code-with-claude": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/a264b97374dad6bf7c734d7356064dbf16bb7f0c-4267x2400.jpg",
+    "published": "2025-04-03T17:48:30.000Z",
+    "summary": "Join us on May 22, 2025 in San Francisco for Code with Claude, a hands-on developer conference featuring workshops, labs, and insights on building with Claude API, CLI tools, and Model Context Protocol.",
+    "title": "Code with Claude - Anthropic's First Developer Conference",
+    "updated": "2025-04-03T17:48:30.000Z",
+    "url": "https://www.anthropic.com/news/Introducing-code-with-claude"
+  },
+  "a-new-initiative-for-developing-third-party-model-evaluations": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/c3c561d6f83c941b6594da7e508a719b3fff1f72-1200x630.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "A robust, third-party evaluation ecosystem is essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations (evals) remains challenging, and the demand is outpacing the supply. To address this, today we're introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models.",
+    "title": "A new initiative for developing third-party model evaluations",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+  },
+  "accelerating-scientific-research": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Book&backgroundColor=sky",
+    "published": "2026-01-15T22:49:21.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "How scientists are using Claude to accelerate research and discovery",
+    "updated": "2026-01-15T22:49:21.000Z",
+    "url": "https://www.anthropic.com/news/accelerating-scientific-research"
+  },
+  "accenture-aws-anthropic": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/66c9aea975bc8e4600412256094196b8ec200d4e-2400x1260.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic, AWS, and Accenture Team Up to Build Trusted Solutions for Enterprises",
+    "title": "Accenture, AWS, Anthropic Collaboration",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/accenture-aws-anthropic"
+  },
+  "acquires-vercept": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&backgroundColor=coral",
+    "published": "2026-02-25T16:58:30.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "updated": "2026-02-25T16:58:30.000Z",
+    "url": "https://www.anthropic.com/news/acquires-vercept"
+  },
+  "activating-asl3-protections": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeShield&backgroundColor=olive",
+    "published": "2025-07-23T18:03:34.000Z",
+    "summary": "We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic’s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons.",
+    "title": "Activating AI Safety Level 3 protections",
+    "updated": "2025-07-23T18:03:34.000Z",
+    "url": "https://www.anthropic.com/news/activating-asl3-protections"
+  },
+  "advancing-claude-for-education": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&backgroundColor=clay",
+    "published": "2025-07-23T18:03:18.000Z",
+    "summary": "A first look at new education-specific integrations, expanded student programs, and university updates.",
+    "title": "Advancing Claude for Education",
+    "updated": "2025-07-23T18:03:18.000Z",
+    "url": "https://www.anthropic.com/news/advancing-claude-for-education"
+  },
+  "advancing-claude-for-financial-services": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=clay",
+    "published": "2025-10-27T19:47:26.000Z",
+    "summary": "Claude for Financial Services now supports a native Excel plug-in, new connectors to real-time market, and pre-built skills for modeling, comp analysis, and earnings reports.",
+    "title": "Advancing Claude for Financial Services",
+    "updated": "2025-10-27T19:47:26.000Z",
+    "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services"
+  },
+  "ai-for-science-program": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Book&backgroundColor=sky",
+    "published": "2025-07-23T18:02:36.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Anthropic's AI for Science Program",
+    "updated": "2025-07-23T18:02:36.000Z",
+    "url": "https://www.anthropic.com/news/ai-for-science-program"
+  },
+  "an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-12-19T19:00:24.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
+    "updated": "2024-12-19T19:00:24.000Z",
+    "url": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist"
+  },
+  "announcing-our-updated-responsible-scaling-policy": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/4048dcbe1e4e38c32891bfb7ca28c1b7628982cd-2400x1260.png",
+    "published": "2024-10-15T20:44:11.000Z",
+    "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems.",
+    "title": "Announcing our updated Responsible Scaling Policy",
+    "updated": "2024-10-15T20:44:11.000Z",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  "anthropic-accenture-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeChatCode&backgroundColor=sky",
+    "published": "2025-12-09T17:55:19.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+    "updated": "2025-12-09T17:55:19.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-accenture-partnership"
+  },
+  "anthropic-achieves-iso-42001-certification-for-responsible-ai": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/7e5906d79e147835d8517b6afc8eae3120069359-1200x630.png",
+    "published": "2025-01-13T17:13:13.000Z",
+    "summary": "We are excited to announce that Anthropic has achieved accredited certification under the new ISO/IEC 42001:2023 standard for our AI management system. ISO 42001 is the first international standard outlining requirements for AI governance and helps ensure AI systems are developed and used responsibly.",
+    "title": "Anthropic achieves ISO 42001 certification for responsible AI",
+    "updated": "2025-01-13T17:13:13.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai"
+  },
+  "anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Puzzle&backgroundColor=sky",
+    "published": "2025-12-02T18:17:32.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
+    "updated": "2025-12-02T18:17:32.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone"
+  },
+  "anthropic-acquires-stainless": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
+    "published": "2026-05-19T18:06:44.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic acquires Stainless",
+    "updated": "2026-05-19T18:06:44.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+  },
+  "anthropic-amazon": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/4176bb663f49c38e74f8b5a479fabfbd5d11f893-2400x1260.png",
+    "published": "2024-11-22T13:51:14.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Expanding access to safer AI with Amazon",
+    "updated": "2024-11-22T13:51:14.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-amazon"
+  },
+  "anthropic-amazon-compute": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=cactus",
+    "published": "2026-04-24T15:50:13.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "updated": "2026-04-24T15:50:13.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-compute"
+  },
+  "anthropic-amazon-trainium": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/4176bb663f49c38e74f8b5a479fabfbd5d11f893-2400x1260.png",
+    "published": "2024-11-22T14:29:44.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Powering the next generation of AI development with AWS",
+    "updated": "2024-11-22T14:29:44.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-trainium"
+  },
+  "anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=heather",
+    "published": "2025-11-04T07:36:15.000Z",
+    "summary": "Anthropic and Iceland announce national AI education pilot",
+    "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+    "updated": "2025-11-04T07:36:15.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots"
+  },
+  "anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-07-14T18:39:54.000Z",
+    "summary": "The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security.",
+    "title": "Anthropic awarded $200M DOD agreement for AI capabilities",
+    "updated": "2025-07-14T18:39:54.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations"
+  },
+  "anthropic-appoints-irina-ghose-as-managing-director-of-india": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-01-16T03:28:16.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+    "updated": "2026-01-16T03:28:16.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india"
+  },
+  "anthropic-bcg": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic partners with BCG",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-bcg"
+  },
+  "anthropic-codepath-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=fig",
+    "published": "2026-02-13T16:19:50.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+    "updated": "2026-02-13T16:19:50.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-codepath-partnership"
+  },
+  "anthropic-economic-index-insights-from-claude-sonnet-3-7": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGraph&backgroundColor=heather",
+    "published": "2025-12-07T14:53:39.000Z",
+    "summary": "The second update from the Anthropic Economic Index",
+    "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+    "updated": "2025-12-07T14:53:39.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7"
+  },
+  "anthropic-education-report-how-educators-use-claude": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeSlide&backgroundColor=sky",
+    "published": "2025-11-22T20:40:06.000Z",
+    "summary": "Research on 74,000 educator conversations shows how faculty use Claude for teaching, research, and building interactive learning tools.",
+    "title": "Anthropic education report: How educators use Claude",
+    "updated": "2025-11-22T20:40:06.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude"
+  },
+  "anthropic-education-report-how-university-students-use-claude": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampPaper&backgroundColor=sky",
+    "published": "2025-07-23T18:04:16.000Z",
+    "summary": "AI systems are no longer just specialized research tools: they’re everyday academic companions. As AIs integrate more deeply into educational environments, we need to consider important questions about learning, assessment, and skill development. Until now, most discussions have relied on surveys and controlled experiments rather than direct evidence of how students naturally integrate AI into their academic work in real settings.",
+    "title": "Anthropic Education Report: How University Students Use Claude",
+    "updated": "2025-07-23T18:04:16.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
+  },
+  "anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=olive",
+    "published": "2025-09-26T15:00:11.000Z",
+    "summary": "Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence.",
+    "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
+    "updated": "2025-09-26T15:00:11.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of"
+  },
+  "anthropic-higher-education-initiatives": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&backgroundColor=heather",
+    "published": "2025-08-21T22:09:41.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic launches higher education advisory board and AI Fluency courses",
+    "updated": "2025-08-21T22:09:41.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives"
+  },
+  "anthropic-infosys": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=sky",
+    "published": "2026-02-17T09:26:56.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "updated": "2026-02-17T09:26:56.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-infosys"
+  },
+  "anthropic-invests-50-billion-in-american-ai-infrastructure": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=sky",
+    "published": "2025-11-12T16:56:05.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic invests $50 billion in American AI infrastructure",
+    "updated": "2025-11-12T16:56:05.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
+  },
+  "anthropic-is-endorsing-sb-53": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-09-08T12:17:10.000Z",
+    "summary": "Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic.",
+    "title": "Anthropic is endorsing SB 53",
+    "updated": "2025-09-08T12:17:10.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+  },
+  "anthropic-kpmg": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=heather",
+    "published": "2026-05-19T13:30:59.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "updated": "2026-05-19T13:30:59.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg"
+  },
+  "anthropic-nec": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&backgroundColor=heather",
+    "published": "2026-04-24T04:06:50.000Z",
+    "summary": "NEC will deploy Claude to 30,000 employees and become Anthropic's first Japan-based global partner, co-developing AI products for finance, manufacturing, and government",
+    "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
+    "updated": "2026-04-24T04:06:50.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-nec"
+  },
+  "anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&backgroundColor=fig",
+    "published": "2026-02-02T14:22:01.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "updated": "2026-02-02T14:22:01.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute"
+  },
+  "anthropic-partners-with-google-cloud": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic Partners with Google Cloud",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud"
+  },
+  "anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+    "title": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund"
+  },
+  "anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGraph&backgroundColor=heather",
+    "published": "2025-07-23T14:58:55.000Z",
+    "summary": "Anthropic collaborates with the University of Chicago's Becker Friedman Institute to research AI's effects on labor markets, productivity, and economic distribution, enhancing our Economic Index initiative with expert analysis.",
+    "title": "Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI economic research",
+    "updated": "2025-07-23T14:58:55.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic"
+  },
+  "anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-02-28T15:56:14.000Z",
+    "summary": "We are proud to participate in the U.S. Department of Energy’s (DOE) first-ever 1,000 Scientist AI Jam, which will bring together scientists across multiple national laboratories to evaluate frontier AI models on scientific research and national security applications.",
+    "title": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
+    "updated": "2025-02-28T15:56:14.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam"
+  },
+  "anthropic-public-record": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&backgroundColor=heather",
+    "published": "2026-06-12T16:24:44.000Z",
+    "summary": "Anthropic Public Record is a national survey of attitudes and opinions towards AI.",
+    "title": "Results from first Anthropic Public Record",
+    "updated": "2026-06-12T16:24:44.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-public-record"
+  },
+  "anthropic-raises-124-million-to-build-more-reliable-general-ai-systems": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic raises $124 million to build more reliable, general AI systems",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems"
+  },
+  "anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20BarChart&backgroundColor=sky",
+    "published": "2026-02-12T21:43:18.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+    "updated": "2026-02-12T21:43:18.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
+  },
+  "anthropic-raises-series-b-to-build-safe-reliable-ai": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-07-21T17:37:31.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
+    "updated": "2025-07-21T17:37:31.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai"
+  },
+  "anthropic-raises-series-e-at-usd61-5b-post-money-valuation": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=cactus",
+    "published": "2025-08-14T12:56:24.000Z",
+    "summary": "Anthropic has raised $3.5 billion at a $61.5 billion post-money valuation. The round was led by Lightspeed Venture Partners, with participation from Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity Management & Research Company, General Catalyst, Jane Street, Menlo Ventures and Salesforce Ventures, amongst other new and existing investors.",
+    "title": "Anthropic raises Series E at $61.5B post-money valuation",
+    "updated": "2025-08-14T12:56:24.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation"
+  },
+  "anthropic-raises-series-f-at-usd183b-post-money-valuation": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=cactus",
+    "published": "2025-11-20T16:26:11.000Z",
+    "summary": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.",
+    "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+    "updated": "2025-11-20T16:26:11.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"
+  },
+  "anthropic-rwanda-mou": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=sky",
+    "published": "2026-02-17T10:01:21.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+    "updated": "2026-02-17T10:01:21.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-rwanda-mou"
+  },
+  "anthropic-s-recommendations-ostp-u-s-ai-action-plan": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-07-23T18:04:22.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan",
+    "updated": "2025-07-23T18:04:22.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan"
+  },
+  "anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-07-23T18:04:13.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic’s response to Governor Newsom’s AI working group draft report",
+    "updated": "2025-07-23T18:04:13.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report"
+  },
+  "anthropic-series-c": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-05-02T00:51:33.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+    "updated": "2025-05-02T00:51:33.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-series-c"
+  },
+  "anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+    "published": "2025-12-02T23:19:08.000Z",
+    "summary": "Anthropic signs CMS health tech pledge",
+    "title": "Anthropic signs CMS health tech pledge",
+    "updated": "2025-12-02T23:19:08.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability"
+  },
+  "anthropic-signs-pledge-to-americas-youth-investing-in-ai-education": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=olive",
+    "published": "2025-09-04T19:53:40.000Z",
+    "summary": "Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide",
+    "title": "Anthropic joins White House pledge for AI education",
+    "updated": "2025-09-04T19:53:40.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education"
+  },
+  "anthropic-teach-for-all": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampPaper&backgroundColor=heather",
+    "published": "2026-01-21T17:36:00.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+    "updated": "2026-01-21T17:36:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-teach-for-all"
+  },
+  "anthropics-responsible-scaling-policy": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/5882d008aa019da201f77acd2192c76dd54364dc-1600x800.png",
+    "published": "2025-01-28T00:17:55.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic's Responsible Scaling Policy",
+    "updated": "2025-01-28T00:17:55.000Z",
+    "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy"
+  },
+  "apple-xcode-claude-agent-sdk": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNode&backgroundColor=clay",
+    "published": "2026-02-03T18:06:03.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Apple’s Xcode now supports the Claude Agent SDK",
+    "updated": "2026-02-03T18:06:03.000Z",
+    "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk"
+  },
+  "australia-MOU": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=cactus",
+    "published": "2026-03-31T23:16:54.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Australian government and Anthropic sign MOU for AI safety and research",
+    "updated": "2026-03-31T23:16:54.000Z",
+    "url": "https://www.anthropic.com/news/australia-MOU"
+  },
+  "bengaluru-office-partnerships-across-india": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=fig",
+    "published": "2026-02-17T15:11:31.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
+    "updated": "2026-02-17T15:11:31.000Z",
+    "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india"
+  },
+  "build-ai-in-america": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bolt&backgroundColor=heather",
+    "published": "2025-07-23T18:03:47.000Z",
+    "summary": "Build AI in America: Anthropic Energy Report",
+    "title": "Build AI in America: Anthropic Energy Report",
+    "updated": "2025-07-23T18:03:47.000Z",
+    "url": "https://www.anthropic.com/news/build-ai-in-america"
+  },
+  "building-safeguards-for-claude": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20House&backgroundColor=sky",
+    "published": "2025-08-16T14:13:13.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Building safeguards for Claude",
+    "updated": "2025-08-16T14:13:13.000Z",
+    "url": "https://www.anthropic.com/news/building-safeguards-for-claude"
+  },
+  "challenges-in-red-teaming-ai-systems": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/c3c561d6f83c941b6594da7e508a719b3fff1f72-1200x630.png",
+    "published": "2024-12-19T18:52:16.000Z",
+    "summary": "In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We hope this post is helpful for other companies trying to red team their AI systems, policymakers curious about how red teaming works in practice, and organizations that want to red team AI technology.",
+    "title": "Challenges in Red Teaming AI Systems",
+    "updated": "2024-12-19T18:52:16.000Z",
+    "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+  },
+  "charting-a-path-to-ai-accountability": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Charting a Path to AI Accountability",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability"
+  },
+  "child-safety-principles": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-12-19T18:52:29.000Z",
+    "summary": "Alongside other leading AI companies, we’re committed to implementing robust child safety measures in the development, deployment, and maintenance of generative AI technologies.",
+    "title": "Aligning on child safety principles",
+    "updated": "2024-12-19T18:52:29.000Z",
+    "url": "https://www.anthropic.com/news/child-safety-principles"
+  },
+  "chris-liddell-appointed-anthropic-board": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-02-13T16:21:14.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Chris Liddell appointed to Anthropic’s board of directors",
+    "updated": "2026-02-13T16:21:14.000Z",
+    "url": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board"
+  },
+  "chris-olah-pope-leo-encyclical": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather",
+    "published": "2026-06-05T14:58:47.000Z",
+    "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+    "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "updated": "2026-06-05T14:58:47.000Z",
+    "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
+  },
+  "claude-2": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude 2",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/claude-2"
+  },
+  "claude-2-1": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Claude 2.1",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/claude-2-1"
+  },
+  "claude-3-5-sonnet": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/8a4eb6c412e5e7ffa38f07233344f4b7e6644994-2400x1200.png",
+    "published": "2025-08-28T15:58:52.000Z",
+    "summary": "Introducing Claude 3.5 Sonnet—our most intelligent model yet. Sonnet now outperforms competitor models and Claude 3 Opus on key evaluations, at twice the speed.",
+    "title": "Introducing Claude 3.5 Sonnet",
+    "updated": "2025-08-28T15:58:52.000Z",
+    "url": "https://www.anthropic.com/news/claude-3-5-sonnet"
+  },
+  "claude-3-7-sonnet": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&backgroundColor=clay",
+    "published": "2025-09-16T17:05:40.000Z",
+    "summary": "Today, we’re announcing Claude 3.7 Sonnet, our most intelligent model to date and the first hybrid reasoning model generally available on the market.",
+    "title": "Claude 3.7 Sonnet and Claude Code",
+    "updated": "2025-09-16T17:05:40.000Z",
+    "url": "https://www.anthropic.com/news/claude-3-7-sonnet"
+  },
+  "claude-3-family": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/746bdd369fb3b738519c34af8159692b60dd7a9c-1200x600.png",
+    "published": "2024-12-19T19:00:30.000Z",
+    "summary": "Today, we're announcing the Claude 3 model family, which sets new industry benchmarks across a wide range of cognitive tasks. The family includes three state-of-the-art models in ascending order of capability: Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus.",
+    "title": "Introducing the next generation of Claude",
+    "updated": "2024-12-19T19:00:30.000Z",
+    "url": "https://www.anthropic.com/news/claude-3-family"
+  },
+  "claude-3-haiku": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude 3 Haiku: our fastest model yet",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/claude-3-haiku"
+  },
+  "claude-4": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadShapes&backgroundColor=clay",
+    "published": "2025-09-16T16:56:20.000Z",
+    "summary": "Discover Claude 4's breakthrough AI capabilities. Experience more reliable, interpretable assistance for complex tasks across work and learning.",
+    "title": "Introducing Claude 4",
+    "updated": "2025-09-16T16:56:20.000Z",
+    "url": "https://www.anthropic.com/news/claude-4"
+  },
+  "claude-and-alexa-plus": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/2ff208c3e1978b4d4585c7c739972349114ae36a-2400x1260.png",
+    "published": "2025-02-26T18:41:21.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude and Alexa+",
+    "updated": "2025-02-26T18:41:21.000Z",
+    "url": "https://www.anthropic.com/news/claude-and-alexa-plus"
+  },
+  "claude-brazil": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/c6108088abbb2c615b798899cb3bdc91ef8f2c09-5760x3240.png",
+    "published": "2024-12-19T18:53:01.000Z",
+    "summary": "Claude, Anthropic’s trusted AI assistant, is now available in Brazil. Starting today, consumers and businesses in Brazil will be able to access Claude.",
+    "title": "Claude is now available in Brazil",
+    "updated": "2024-12-19T18:53:01.000Z",
+    "url": "https://www.anthropic.com/news/claude-brazil"
+  },
+  "claude-code-on-team-and-enterprise": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/d2cef8f0e05321f6f1af1269c3bade9ec545a720-2400x1260.png",
+    "published": "2025-08-20T17:56:48.000Z",
+    "summary": "Enterprise and Team customers can now upgrade to premium seats that include more usage and Claude Code—bringing our app and powerful coding agent together under one subscription.",
+    "title": "Claude Code and new admin controls for business plans",
+    "updated": "2025-08-20T17:56:48.000Z",
+    "url": "https://www.anthropic.com/news/claude-code-on-team-and-enterprise"
+  },
+  "claude-code-security": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay",
+    "published": "2026-02-20T17:59:33.000Z",
+    "summary": "Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry.",
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "updated": "2026-02-20T17:59:33.000Z",
+    "url": "https://www.anthropic.com/news/claude-code-security"
+  },
+  "claude-corps": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg",
+    "published": "2026-06-26T12:32:44.000Z",
+    "summary": "Anthropic is launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+    "title": "Introducing Claude Corps",
+    "updated": "2026-06-26T12:32:44.000Z",
+    "url": "https://www.anthropic.com/news/claude-corps"
+  },
+  "claude-design-anthropic-labs": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=cactus",
+    "published": "2026-05-28T19:33:59.000Z",
+    "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "updated": "2026-05-28T19:33:59.000Z",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+  },
+  "claude-europe": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/8a4eb6c412e5e7ffa38f07233344f4b7e6644994-2400x1200.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "We’re excited to announce that Claude, Anthropic’s trusted AI assistant, is now available for people and businesses across Europe to enhance their productivity and creativity.",
+    "title": "Claude is now available in the EU",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/claude-europe"
+  },
+  "claude-fable-5-mythos-5": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+    "published": "2026-07-01T19:34:43.000Z",
+    "summary": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "updated": "2026-07-01T19:34:43.000Z",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+  },
+  "claude-for-creative-work": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
+    "published": "2026-05-01T15:44:00.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude for Creative Work",
+    "updated": "2026-05-01T15:44:00.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work"
+  },
+  "claude-for-financial-services": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=clay",
+    "published": "2026-04-10T12:11:09.000Z",
+    "summary": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.",
+    "title": "Claude for Financial Services",
+    "updated": "2026-04-10T12:11:09.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-financial-services"
+  },
+  "claude-for-life-sciences": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&backgroundColor=clay",
+    "published": "2025-10-21T02:53:49.000Z",
+    "summary": "Discover how Claude accelerates life sciences research with new scientific connectors, skills, and improved performance for drug discovery and clinical work.",
+    "title": "Claude for Life Sciences",
+    "updated": "2025-10-21T02:53:49.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-life-sciences"
+  },
+  "claude-for-nonprofits": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&backgroundColor=clay",
+    "published": "2026-02-09T15:51:38.000Z",
+    "summary": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits.",
+    "title": "Introducing Claude for Nonprofits",
+    "updated": "2026-02-09T15:51:38.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-nonprofits"
+  },
+  "claude-for-small-business": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&backgroundColor=clay",
+    "published": "2026-05-14T16:16:25.000Z",
+    "summary": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
+    "title": "Introducing Claude for Small Business",
+    "updated": "2026-05-14T16:16:25.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-small-business"
+  },
+  "claude-gov-models-for-u-s-national-security-customers": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-07-30T22:58:04.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude Gov models for U.S. national security customers",
+    "updated": "2025-07-30T22:58:04.000Z",
+    "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers"
+  },
+  "claude-haiku-4-5": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadBolt&backgroundColor=clay",
+    "published": "2025-11-20T16:25:50.000Z",
+    "summary": "Claude Haiku 4.5, our latest small model, is available today to all users.",
+    "title": "Introducing Claude Haiku 4.5",
+    "updated": "2025-11-20T16:25:50.000Z",
+    "url": "https://www.anthropic.com/news/claude-haiku-4-5"
+  },
+  "claude-in-amazon-bedrock-fedramp-high": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Key&backgroundColor=sky",
+    "published": "2025-07-23T18:04:11.000Z",
+    "summary": "Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads through Amazon Bedrock in AWS GovCloud (US) regions. Federal agencies and defense organizations can now access Claude's advanced AI capabilities while meeting the most stringent government security requirements—opening new possibilities for mission-critical applications across defense, intelligence, and sensitive civilian operations.",
+    "title": "Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads",
+    "updated": "2025-07-23T18:04:11.000Z",
+    "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high"
+  },
+  "claude-in-microsoft-foundry": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Flower&backgroundColor=clay",
+    "published": "2025-11-18T16:52:14.000Z",
+    "summary": "Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 models are now available in public preview in Microsoft Foundry, where Azure customers can build production applications and enterprise agents.",
+    "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+    "updated": "2025-11-18T16:52:14.000Z",
+    "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry"
+  },
+  "claude-in-xcode": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0daf4c734673d46413d8b2ad95e7f4249234473c-2400x1260.png",
+    "published": "2025-09-15T21:27:03.000Z",
+    "summary": "Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.",
+    "title": "Claude is now generally available in Xcode",
+    "updated": "2025-09-15T21:27:03.000Z",
+    "url": "https://www.anthropic.com/news/claude-in-xcode"
+  },
+  "claude-is-a-space-to-think": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20House&backgroundColor=cactus",
+    "published": "2026-02-04T17:29:42.000Z",
+    "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+    "title": "Claude is a space to think | Anthropic",
+    "updated": "2026-02-04T17:29:42.000Z",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think"
+  },
+  "claude-new-constitution": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Constitution&backgroundColor=olive",
+    "published": "2026-01-21T16:34:47.000Z",
+    "summary": "A new approach to a foundational document that expresses and shapes who Claude is",
+    "title": "Claude's new constitution",
+    "updated": "2026-01-21T16:34:47.000Z",
+    "url": "https://www.anthropic.com/news/claude-new-constitution"
+  },
+  "claude-opus-4-1": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadShapes&backgroundColor=clay",
+    "published": "2025-08-14T16:28:38.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude Opus 4.1",
+    "updated": "2025-08-14T16:28:38.000Z",
+    "url": "https://www.anthropic.com/news/claude-opus-4-1"
+  },
+  "claude-opus-4-5": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&backgroundColor=clay",
+    "published": "2026-03-13T20:56:07.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Claude Opus 4.5",
+    "updated": "2026-03-13T20:56:07.000Z",
+    "url": "https://www.anthropic.com/news/claude-opus-4-5"
+  },
+  "claude-opus-4-6": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/01d06528567e4bd22c3ddedc87f609ee5716a009-2400x1260.png",
+    "published": "2026-03-11T17:28:58.000Z",
+    "summary": "We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+    "title": "Claude Opus 4.6",
+    "updated": "2026-03-11T17:28:58.000Z",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6"
+  },
+  "claude-opus-4-7": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
+    "published": "2026-05-04T23:23:49.000Z",
+    "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.",
+    "title": "Introducing Claude Opus 4.7",
+    "updated": "2026-05-04T23:23:49.000Z",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7"
+  },
+  "claude-opus-4-8": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
+    "published": "2026-06-01T10:18:23.000Z",
+    "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "title": "Introducing Claude Opus 4.8",
+    "updated": "2026-06-01T10:18:23.000Z",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8"
+  },
+  "claude-partner-network": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=fig",
+    "published": "2026-03-12T19:25:16.000Z",
+    "summary": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.",
+    "title": "Anthropic invests $100 million into the Claude Partner Network",
+    "updated": "2026-03-12T19:25:16.000Z",
+    "url": "https://www.anthropic.com/news/claude-partner-network"
+  },
+  "claude-pro": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Claude Pro",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/claude-pro"
+  },
+  "claude-science-ai-workbench": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png",
+    "published": "2026-07-01T17:37:46.000Z",
+    "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "title": "Claude Science, an AI workbench for scientists",
+    "updated": "2026-07-01T17:37:46.000Z",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
+  },
+  "claude-sonnet-4-5": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCube&backgroundColor=clay",
+    "published": "2025-11-20T16:26:28.000Z",
+    "summary": "Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers.",
+    "title": "Introducing Claude Sonnet 4.5",
+    "updated": "2025-11-20T16:26:28.000Z",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-5"
+  },
+  "claude-sonnet-4-6": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&backgroundColor=clay",
+    "published": "2026-03-11T17:28:36.000Z",
+    "summary": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.",
+    "title": "Introducing Sonnet 4.6",
+    "updated": "2026-03-11T17:28:36.000Z",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-6"
+  },
+  "claude-sonnet-5": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
+    "published": "2026-06-30T21:20:30.000Z",
+    "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
+    "title": "Introducing Claude Sonnet 5",
+    "updated": "2026-06-30T21:20:30.000Z",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5"
+  },
+  "claudes-constitution": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-01-21T18:26:10.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Claude’s Constitution",
+    "updated": "2026-01-21T18:26:10.000Z",
+    "url": "https://www.anthropic.com/news/claudes-constitution"
+  },
+  "cognizant-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=oat",
+    "published": "2025-11-06T20:57:55.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+    "updated": "2025-11-06T20:57:55.000Z",
+    "url": "https://www.anthropic.com/news/cognizant-partnership"
+  },
+  "compliance-framework-SB53": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-12-19T21:05:06.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
+    "updated": "2025-12-19T21:05:06.000Z",
+    "url": "https://www.anthropic.com/news/compliance-framework-SB53"
+  },
+  "confidential-draft-s1-sec": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-06-01T15:59:13.000Z",
+    "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
+    "title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "updated": "2026-06-01T15:59:13.000Z",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+  },
+  "contextual-retrieval": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/2bb957622142f53575f476f76473593fa89d1dc8-2400x1260.png",
+    "published": "2024-12-19T19:00:43.000Z",
+    "summary": "Explore how Anthropic enhances AI systems through advanced contextual retrieval methods. Learn about our approach to improving information access and relevance in large language models.",
+    "title": "Contextual Retrieval in AI Systems",
+    "updated": "2024-12-19T19:00:43.000Z",
+    "url": "https://www.anthropic.com/news/contextual-retrieval"
+  },
+  "core-views-on-ai-safety": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Rocks&backgroundColor=oat",
+    "published": "2026-06-26T12:34:51.000Z",
+    "summary": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety of research directions aimed at better understanding, evaluating, and aligning AI systems.",
+    "title": "Anthropic's core views on AI safety",
+    "updated": "2026-06-26T12:34:51.000Z",
+    "url": "https://www.anthropic.com/news/core-views-on-ai-safety"
+  },
+  "covering-electricity-price-increases": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadBolt&backgroundColor=cactus",
+    "published": "2026-02-11T21:08:31.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Covering electricity price increases from our data centers",
+    "updated": "2026-02-11T21:08:31.000Z",
+    "url": "https://www.anthropic.com/news/covering-electricity-price-increases"
+  },
+  "deloitte-anthropic-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=sky",
+    "published": "2025-10-06T20:38:02.000Z",
+    "summary": "Deloitte will make Claude available to 470,000 people across its global network. Anthropic's largest enterprise AI deployment to date. Partner with Anthropic because Claude is built for the compliance and control that enterprises demand.",
+    "title": "Anthropic Deloitte Partnership",
+    "updated": "2025-10-06T20:38:02.000Z",
+    "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership"
+  },
+  "detecting-and-countering-malicious-uses-of-claude-march-2025": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeMagnifier&backgroundColor=sky",
+    "published": "2025-08-21T21:06:42.000Z",
+    "summary": "Detecting and Countering Malicious Uses of Claude",
+    "title": "Detecting and Countering Malicious Uses of Claude",
+    "updated": "2025-08-21T21:06:42.000Z",
+    "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"
+  },
+  "detecting-and-preventing-distillation-attacks": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Lock&backgroundColor=fig",
+    "published": "2026-02-23T19:24:39.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Detecting and preventing distillation attacks",
+    "updated": "2026-02-23T19:24:39.000Z",
+    "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks"
+  },
+  "detecting-countering-misuse-aug-2025": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/faffa5377164658980f804e5bee648fe07370268-2401x1261.png",
+    "published": "2025-08-27T10:11:24.000Z",
+    "summary": "Anthropic's threat intelligence report on AI cybercrime and other abuses",
+    "title": "Detecting and countering misuse of AI: August 2025",
+    "updated": "2025-08-27T10:11:24.000Z",
+    "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"
+  },
+  "developing-computer-use": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/393cf77dd5c15761c47f2db9f80e30b4f6309708-2880x1620.png",
+    "published": "2025-08-28T15:58:57.000Z",
+    "summary": "Developing a computer use model",
+    "title": "Developing a computer use model",
+    "updated": "2025-08-28T15:58:57.000Z",
+    "url": "https://www.anthropic.com/news/developing-computer-use"
+  },
+  "developing-nuclear-safeguards-for-ai-through-public-private-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&backgroundColor=olive",
+    "published": "2026-06-17T16:48:41.000Z",
+    "summary": "Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an AI system that automatically categorizes content—that distinguishes between concerning and benign nuclear-related conversations with 96% accuracy in preliminary testing.",
+    "title": "Developing nuclear safeguards for AI through public-private partnership",
+    "updated": "2026-06-17T16:48:41.000Z",
+    "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership"
+  },
+  "disrupting-AI-espionage": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Lock&backgroundColor=fig",
+    "published": "2025-11-14T11:25:56.000Z",
+    "summary": "A report describing an a highly sophisticated AI-led cyberattack",
+    "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+    "updated": "2025-11-14T11:25:56.000Z",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage"
+  },
+  "donate-public-first-action": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=cactus",
+    "published": "2026-02-12T14:45:37.000Z",
+    "summary": "Donating to a 501(c)(4) focused on AI issues in the public interest",
+    "title": "Anthropic is donating $20 million to Public First Action",
+    "updated": "2026-02-12T14:45:37.000Z",
+    "url": "https://www.anthropic.com/news/donate-public-first-action"
+  },
+  "donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=cactus",
+    "published": "2025-12-11T18:14:55.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+    "updated": "2025-12-11T18:14:55.000Z",
+    "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation"
+  },
+  "dxc-anthropic-alliance": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&backgroundColor=coral",
+    "published": "2026-06-26T12:32:30.000Z",
+    "summary": "Anthropic is announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.",
+    "title": "DXC integrates Claude into systems regulated industries rely on",
+    "updated": "2026-06-26T12:32:30.000Z",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
+  },
+  "economic-futures-uk-europe": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20BarChart&backgroundColor=sky",
+    "published": "2025-11-05T07:57:22.000Z",
+    "summary": "Anthropic's support for economic research comes to the UK and Europe",
+    "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+    "updated": "2025-11-05T07:57:22.000Z",
+    "url": "https://www.anthropic.com/news/economic-futures-uk-europe"
+  },
+  "election-safeguards-update": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Vote&backgroundColor=olive",
+    "published": "2026-04-28T08:59:45.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "An update on our election safeguards",
+    "updated": "2026-04-28T08:59:45.000Z",
+    "url": "https://www.anthropic.com/news/election-safeguards-update"
+  },
+  "elections-ai-2024": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/742c814ffe6ae680972a87e902a399d6b2fc21d2-2400x1426.png",
+    "published": "2024-12-12T21:28:18.000Z",
+    "summary": "Lessons and observations from generative AI in the first major election year since Claude has been available.",
+    "title": "Elections and AI in 2024: Anthropic observations and learnings",
+    "updated": "2024-12-12T21:28:18.000Z",
+    "url": "https://www.anthropic.com/news/elections-ai-2024"
+  },
+  "enabling-claude-code-to-work-more-autonomously": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=clay",
+    "published": "2026-03-02T21:07:46.000Z",
+    "summary": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence.",
+    "title": "Enabling Claude Code to work more autonomously",
+    "updated": "2026-03-02T21:07:46.000Z",
+    "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"
+  },
+  "enterprise-ai-services-company": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+    "published": "2026-05-04T15:43:58.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+    "updated": "2026-05-04T15:43:58.000Z",
+    "url": "https://www.anthropic.com/news/enterprise-ai-services-company"
+  },
+  "eu-code-practice": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-07-21T09:15:47.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic to sign the EU Code of Practice",
+    "updated": "2025-07-21T09:15:47.000Z",
+    "url": "https://www.anthropic.com/news/eu-code-practice"
+  },
+  "expanded-legal-protections-api-improvements": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-12-19T19:00:52.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Expanded legal protections and improvements to our API",
+    "updated": "2024-12-19T19:00:52.000Z",
+    "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements"
+  },
+  "expanding-access-to-claude-for-government": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic's mission is to build reliable, interpretable, steerable AI systems. We have been excited to see our technology used in areas like coding, customer service, drug discovery, and medical research. We're eager to make these tools available through expanded offerings to government users. Leveraging the flexibility and security of Amazon Web Services [AWS],  our AI models Claude 3 Haiku and Claude 3 Sonnet are now available in the AWS Marketplace for the US Intelligence Community [IC] and in AWS GovCloud.",
+    "title": "Expanding Access to Claude for Government",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government"
+  },
+  "expanding-global-operations-to-india": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=oat",
+    "published": "2025-10-08T00:58:04.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic expands global operations to India, plans to open an office in Bengaluru.",
+    "updated": "2025-10-08T00:58:04.000Z",
+    "url": "https://www.anthropic.com/news/expanding-global-operations-to-india"
+  },
+  "expanding-our-use-of-google-cloud-tpus-and-services": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=fig",
+    "published": "2025-10-23T20:34:59.000Z",
+    "summary": "Announcing a dramatic increase in Anthropic's compute resources",
+    "title": "Expanding our use of Google Cloud TPUs and Services",
+    "updated": "2025-10-23T20:34:59.000Z",
+    "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services"
+  },
+  "expanding-project-glasswing": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
+    "published": "2026-06-02T14:03:15.000Z",
+    "summary": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries",
+    "title": "Expanding Project Glasswing",
+    "updated": "2026-06-02T14:03:15.000Z",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing"
+  },
+  "fable-mythos-access": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png",
+    "published": "2026-06-13T01:13:41.000Z",
+    "summary": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "updated": "2026-06-13T01:13:41.000Z",
+    "url": "https://www.anthropic.com/news/fable-mythos-access"
+  },
+  "federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=olive",
+    "published": "2025-08-05T21:28:13.000Z",
+    "summary": "Claude is now available for purchase through the General Services Administration (GSA) schedule, making it easier for all U.S. federal government departments and agencies to quickly access Claude, with pre-negotiated pricing and terms that comply with federal acquisition regulations.",
+    "title": "U.S. federal departments and agencies can now more quickly and easily get access to Claude",
+    "updated": "2025-08-05T21:28:13.000Z",
+    "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule"
+  },
+  "finance-agents": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&backgroundColor=clay",
+    "published": "2026-05-07T20:29:52.000Z",
+    "summary": "We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.",
+    "title": "Agents for financial services",
+    "updated": "2026-05-07T20:29:52.000Z",
+    "url": "https://www.anthropic.com/news/finance-agents"
+  },
+  "fine-tune-claude-3-haiku": {
+    "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6905150034f47a70097804a6_og_fine-tune-claude-3-haiku.jpg",
+    "published": "2024-11-01T21:48:21.000Z",
+    "summary": "Claude 3 Haiku can now be fine-tuned in Amazon Bedrock with custom training data, enabling faster, more accurate performance at lower cost. Update: Fine-tuning Claude 3 Haiku in Amazon Bedrock is generally available.",
+    "title": "Fine-tune Claude 3 Haiku in Amazon Bedrock | Claude by Anthropic",
+    "updated": "2024-11-01T21:48:21.000Z",
+    "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku"
+  },
+  "frontier-model-security": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-12-19T19:01:12.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Frontier Model Security",
+    "updated": "2024-12-19T19:01:12.000Z",
+    "url": "https://www.anthropic.com/news/frontier-model-security"
+  },
+  "frontier-threats-red-teaming-for-ai-safety": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-12-19T19:01:19.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Frontier Threats Red Teaming for AI Safety",
+    "updated": "2024-12-19T19:01:19.000Z",
+    "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety"
+  },
+  "gates-foundation-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=coral",
+    "published": "2026-06-26T12:29:18.000Z",
+    "summary": "Anthropic is partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years.",
+    "title": "Anthropic partners with the Gates Foundation",
+    "updated": "2026-06-26T12:29:18.000Z",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership"
+  },
+  "genesis-mission-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Telescope&backgroundColor=fig",
+    "published": "2025-12-18T23:06:17.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+    "updated": "2025-12-18T23:06:17.000Z",
+    "url": "https://www.anthropic.com/news/genesis-mission-partnership"
+  },
+  "github-copilot": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/29969cc20e3af0e08ddded0ba3e777cd5fa7f351-2400x1261.png",
+    "published": "2025-06-23T23:45:38.000Z",
+    "summary": "Starting today, the new Claude 3.5 Sonnet begins rolling out on GitHub Copilot, enabling developers to choose Claude 3.5 Sonnet for coding—directly in Visual Studio Code and GitHub.com.",
+    "title": "Claude 3.5 Sonnet on GitHub Copilot",
+    "updated": "2025-06-23T23:45:38.000Z",
+    "url": "https://www.anthropic.com/news/github-copilot"
+  },
+  "golden-gate-claude": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/9a1138d1b0a06a866223c329e6df8cfd6ae502c4-2400x1260.jpg",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "When we turn up the strength of the “Golden Gate Bridge” feature, Claude’s responses begin to focus on the Golden Gate Bridge. For a short time, we’re making this model available for everyone to interact with.",
+    "title": "Golden Gate Claude",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/golden-gate-claude"
+  },
+  "google-broadcom-partnership-compute": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=fig",
+    "published": "2026-04-06T21:43:38.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+    "updated": "2026-04-06T21:43:38.000Z",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+  },
+  "google-vertex-general-availability": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/a49d643d5b8d0979d5b690303080be74600abd97-2400x1260.png",
+    "published": "2024-12-19T18:53:26.000Z",
+    "summary": "Claude 3 Haiku and Claude 3 Sonnet are now generally available on Google Cloud’s Vertex AI platform.",
+    "title": "Claude 3 models on Vertex AI",
+    "updated": "2024-12-19T18:53:26.000Z",
+    "url": "https://www.anthropic.com/news/google-vertex-general-availability"
+  },
+  "gov-UK-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=heather",
+    "published": "2026-01-27T17:47:33.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "updated": "2026-01-27T17:47:33.000Z",
+    "url": "https://www.anthropic.com/news/gov-UK-partnership"
+  },
+  "head-of-EMEA-new-roles": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-07-21T17:31:49.000Z",
+    "summary": "An announcement of Anthropic's plans to expand across Europe",
+    "title": "Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
+    "updated": "2025-07-21T17:31:49.000Z",
+    "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles"
+  },
+  "head-of-japan-hiring-plans": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-08-12T17:33:28.000Z",
+    "summary": "An announcement of Anthropic's plans to expand into Japan",
+    "title": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
+    "updated": "2025-08-12T17:33:28.000Z",
+    "url": "https://www.anthropic.com/news/head-of-japan-hiring-plans"
+  },
+  "healthcare-life-sciences": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Heartbeat&backgroundColor=fig",
+    "published": "2026-04-09T20:25:31.000Z",
+    "summary": "Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials.gov.",
+    "title": "Advancing Claude in healthcare and the life sciences",
+    "updated": "2026-04-09T20:25:31.000Z",
+    "url": "https://www.anthropic.com/news/healthcare-life-sciences"
+  },
+  "higher-limits-spacex": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=fig",
+    "published": "2026-05-06T16:35:37.000Z",
+    "summary": "We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.",
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "updated": "2026-05-06T16:35:37.000Z",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex"
+  },
+  "how-people-use-claude-for-support-advice-and-companionship": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&backgroundColor=sky",
+    "published": "2025-12-12T01:47:15.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "How people use Claude for support, advice, and companionship",
+    "updated": "2025-12-12T01:47:15.000Z",
+    "url": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"
+  },
+  "introducing-anthropic-labs": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=sky",
+    "published": "2026-01-13T22:46:14.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Labs",
+    "updated": "2026-01-13T22:46:14.000Z",
+    "url": "https://www.anthropic.com/news/introducing-anthropic-labs"
+  },
+  "introducing-anthropic-transparency-hub": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/488cacfd41ee2cc903e7fbf2daed2d251c0666cd-2401x1261.png",
+    "published": "2025-02-28T17:49:09.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Anthropic's Transparency Hub",
+    "updated": "2025-02-28T17:49:09.000Z",
+    "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub"
+  },
+  "introducing-claude": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-05-02T00:52:02.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Claude",
+    "updated": "2025-05-02T00:52:02.000Z",
+    "url": "https://www.anthropic.com/news/introducing-claude"
+  },
+  "introducing-claude-for-education": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Column&backgroundColor=clay",
+    "published": "2025-07-23T18:02:18.000Z",
+    "summary": "Claude for Education",
+    "title": "Introducing Claude for education",
+    "updated": "2025-07-23T18:02:18.000Z",
+    "url": "https://www.anthropic.com/news/introducing-claude-for-education"
+  },
+  "introducing-claude-tag": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
+    "published": "2026-06-26T12:23:43.000Z",
+    "summary": "Claude Tag is a new way for teams to work with Claude.",
+    "title": "Introducing Claude Tag",
+    "updated": "2026-06-26T12:23:43.000Z",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag"
+  },
+  "introducing-claude-to-canada": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/8a4eb6c412e5e7ffa38f07233344f4b7e6644994-2400x1200.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Claude is now available in Canada. Starting today, people and businesses across the country will be able to access Claude.",
+    "title": "Introducing Claude to Canada",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/introducing-claude-to-canada"
+  },
+  "introducing-the-anthropic-economic-advisory-council": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGraph&backgroundColor=heather",
+    "published": "2025-07-23T18:02:45.000Z",
+    "summary": "Today, we’re announcing the formation of the Anthropic Economic Advisory Council, a group of distinguished economists who will provide Anthropic with expert guidance on the economic implications of AI development and deployment. The Council will advise Anthropic on AI's impact on labor markets, economic growth, and broader socioeconomic systems.",
+    "title": "Introducing the Anthropic Economic Advisory Council",
+    "updated": "2025-07-23T18:02:45.000Z",
+    "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council"
+  },
+  "introducing-the-anthropic-economic-futures-program": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGraph&backgroundColor=heather",
+    "published": "2025-08-14T14:38:32.000Z",
+    "summary": "Anthropic's new research initiative exploring AI's impact on the future of work and economy, developing policy frameworks for a changing workforce.",
+    "title": "Anthropic Economic Futures Program Launch",
+    "updated": "2025-08-14T14:38:32.000Z",
+    "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program"
+  },
+  "introducing-the-anthropic-national-security-and-public-sector-advisory-council": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-08-27T13:01:25.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing the Anthropic National Security and Public Sector Advisory Council",
+    "updated": "2025-08-27T13:01:25.000Z",
+    "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council"
+  },
+  "investing-in-energy-to-secure-america-s-ai-future": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Plant&backgroundColor=cactus",
+    "published": "2025-07-23T18:29:19.000Z",
+    "summary": "Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. The importance of building this infrastructure goes beyond just powering data centers—the country that controls the energy to train and deploy frontier AI models will shape the future of global innovation, economic competitiveness, and democratic values.",
+    "title": "Investing in energy to secure America's AI future",
+    "updated": "2025-07-23T18:29:19.000Z",
+    "url": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future"
+  },
+  "jay-kreps-appointed-to-board-of-directors": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Today, we're announcing that Jay Kreps, co-founder and CEO of Confluent, has joined Anthropic's Board of Directors. Jay's extensive experience in building and scaling highly successful tech companies will play an important role as Anthropic prepares for the next phase of growth.",
+    "title": "Jay Kreps appointed to Anthropic's Board of Directors",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors"
+  },
+  "kiyoung-choi-representative-director-anthropic-korea": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=sky",
+    "published": "2026-05-26T23:11:06.000Z",
+    "summary": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office.",
+    "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
+    "updated": "2026-05-26T23:11:06.000Z",
+    "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"
+  },
+  "krishna-rao-joins-anthropic": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-05-21T17:52:07.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
+    "updated": "2024-05-21T17:52:07.000Z",
+    "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic"
+  },
+  "lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&backgroundColor=olive",
+    "published": "2025-07-23T18:03:21.000Z",
+    "summary": "Lawrence Livermore National Laboratory expands Claude for Enterprise access to 10,000 scientists, accelerating breakthroughs in energy, and national security research.",
+    "title": "Claude for Enterprise Powers LLNL Research",
+    "updated": "2025-07-23T18:03:21.000Z",
+    "url": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and"
+  },
+  "lyft-announcement": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b735b997d44def324027a9790429b021b0949496-2880x1620.png",
+    "published": "2025-02-06T14:00:07.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
+    "updated": "2025-02-06T14:00:07.000Z",
+    "url": "https://www.anthropic.com/news/lyft-announcement"
+  },
+  "mariano-florentino-long-term-benefit-trust": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=olive",
+    "published": "2026-01-20T15:09:28.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+    "updated": "2026-01-20T15:09:28.000Z",
+    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust"
+  },
+  "maryland-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Plant&backgroundColor=coral",
+    "published": "2025-11-13T17:57:34.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "The State of Maryland partners with Anthropic to better serve residents",
+    "updated": "2025-11-13T17:57:34.000Z",
+    "url": "https://www.anthropic.com/news/maryland-partnership"
+  },
+  "microsoft-nvidia-anthropic-announce-strategic-partnerships": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=heather",
+    "published": "2025-11-18T18:17:07.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Microsoft, NVIDIA and Anthropic announced new strategic partnerships.",
+    "updated": "2025-11-18T18:17:07.000Z",
+    "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships"
+  },
+  "mike-krieger-joins-anthropic": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "We're excited to announce that Mike Krieger has joined Anthropic as our Chief Product Officer.",
+    "title": "Mike Krieger joins Anthropic as Chief Product Officer",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/mike-krieger-joins-anthropic"
+  },
+  "milan-office-opening": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&backgroundColor=fig",
+    "published": "2026-05-28T13:00:32.000Z",
+    "summary": "We're opening a new office in Milan, our sixth in Europe.",
+    "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+    "updated": "2026-05-28T13:00:32.000Z",
+    "url": "https://www.anthropic.com/news/milan-office-opening"
+  },
+  "model-context-protocol": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png",
+    "published": "2026-05-07T20:07:05.000Z",
+    "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.",
+    "title": "Introducing the Model Context Protocol",
+    "updated": "2026-05-07T20:07:05.000Z",
+    "url": "https://www.anthropic.com/news/model-context-protocol"
+  },
+  "model-safety-bug-bounty": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/7e5906d79e147835d8517b6afc8eae3120069359-1200x630.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "The rapid progression of AI model capabilities demands an equally swift advancement in safety protocols. As we work on developing the next generation of our AI safeguarding systems, we’re expanding our bug bounty program to introduce a new initiative focused on finding flaws in the mitigations we use to prevent misuse of our models.",
+    "title": "Expanding our model safety bug bounty program",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/model-safety-bug-bounty"
+  },
+  "mou-uk-government": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=oat",
+    "published": "2025-07-23T18:02:28.000Z",
+    "summary": "Announcing a Memorandum of Understanding between Anthropic and the UK Government",
+    "title": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+    "updated": "2025-07-23T18:02:28.000Z",
+    "url": "https://www.anthropic.com/news/mou-uk-government"
+  },
+  "mozilla-firefox-security": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&backgroundColor=coral",
+    "published": "2026-03-26T11:05:56.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Partnering with Mozilla to improve Firefox’s security",
+    "updated": "2026-03-26T11:05:56.000Z",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security"
+  },
+  "narasimhan-board": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-04-14T14:00:04.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "updated": "2026-04-14T14:00:04.000Z",
+    "url": "https://www.anthropic.com/news/narasimhan-board"
+  },
+  "national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-07-11T23:54:01.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
+    "updated": "2025-07-11T23:54:01.000Z",
+    "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust"
+  },
+  "new-offices-in-paris-and-munich-expand-european-presence": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=sky",
+    "published": "2025-11-12T18:10:23.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "New offices in Paris and Munich expand Anthropic’s European presence",
+    "updated": "2025-11-12T18:10:23.000Z",
+    "url": "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence"
+  },
+  "offering-expanded-claude-access-across-all-three-branches-of-government": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=heather",
+    "published": "2025-08-12T13:07:07.000Z",
+    "summary": "We are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies, as well as legislative and judiciary branches of government, for $1.",
+    "title": "Offering expanded Claude access across all three branches of government",
+    "updated": "2025-08-12T13:07:07.000Z",
+    "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government"
+  },
+  "opening-our-tokyo-office": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&backgroundColor=sky",
+    "published": "2025-10-29T21:42:18.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic opens Tokyo office, signs a Memorandum of Cooperation with the Japan AI Safety Institute",
+    "updated": "2025-10-29T21:42:18.000Z",
+    "url": "https://www.anthropic.com/news/opening-our-tokyo-office"
+  },
+  "our-approach-to-understanding-and-addressing-ai-harms": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=clay",
+    "published": "2025-07-23T18:04:25.000Z",
+    "summary": "Learn about Anthropic's comprehensive framework for identifying, classifying, and mitigating potential harms from AI systems, ensuring responsible development of advanced AI technology.",
+    "title": "Understanding and Addressing AI Harms",
+    "updated": "2025-07-23T18:04:25.000Z",
+    "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+  },
+  "our-framework-for-developing-safe-and-trustworthy-agents": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeSlide&backgroundColor=oat",
+    "published": "2025-08-05T20:35:14.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Our framework for developing safe and trustworthy agents",
+    "updated": "2025-08-05T20:35:14.000Z",
+    "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents"
+  },
+  "paris-ai-summit": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/431b1b86362cbbc5da5c8da972357140fffcdd96-2401x1261.png",
+    "published": "2025-02-20T14:57:47.000Z",
+    "summary": "A call for greater focus and urgency",
+    "title": "Statement from Dario Amodei on the Paris AI Action Summit",
+    "updated": "2025-02-20T14:57:47.000Z",
+    "url": "https://www.anthropic.com/news/paris-ai-summit"
+  },
+  "partnering-with-scale": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Partnering with Scale to Bring Generative AI to Enterprises",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/partnering-with-scale"
+  },
+  "paul-smith-to-join-anthropic": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-07-15T03:13:38.000Z",
+    "summary": "Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year.",
+    "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
+    "updated": "2025-07-15T03:13:38.000Z",
+    "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic"
+  },
+  "policy-recap-q4-2023": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-12-19T19:01:31.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+    "updated": "2024-12-19T19:01:31.000Z",
+    "url": "https://www.anthropic.com/news/policy-recap-q4-2023"
+  },
+  "political-even-handedness": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20ScaleShapes&backgroundColor=oat",
+    "published": "2025-12-10T00:18:44.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Measuring political bias in Claude",
+    "updated": "2025-12-10T00:18:44.000Z",
+    "url": "https://www.anthropic.com/news/political-even-handedness"
+  },
+  "preparing-for-global-elections-in-2024": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/d349f9f92aaf574702f002fbb2b01159e6e4c659-1200x631.png",
+    "published": "2024-12-19T19:01:39.000Z",
+    "summary": "In this post, we’ll discuss some of the specific steps we’ve taken to help us detect and mitigate potential misuse of our AI tools in political contexts.",
+    "title": "Preparing for global elections in 2024",
+    "updated": "2024-12-19T19:01:39.000Z",
+    "url": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024"
+  },
+  "projects": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/2c41b718412e53020ca101ed99165da0586c6f22-5120x2688.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Claude Pro and Team users can now organize chats into Projects. Projects bring together internal knowledge and chat activity in one place so Claude can be your go-to expert for generating ideas, making decisions, and moving work forward.",
+    "title": "Collaborate with Claude on Projects",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/projects"
+  },
+  "prompt-engineering-for-business-performance": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/a3cce797e8c39bf78323b3fe0473a292675499fc-1200x630.png",
+    "published": "2024-12-19T18:53:38.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Prompt engineering for business performance",
+    "updated": "2024-12-19T18:53:38.000Z",
+    "url": "https://www.anthropic.com/news/prompt-engineering-for-business-performance"
+  },
+  "prompting-long-context": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-01-06T15:23:18.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Prompt engineering for Claude's long context window",
+    "updated": "2026-01-06T15:23:18.000Z",
+    "url": "https://www.anthropic.com/news/prompting-long-context"
+  },
+  "protecting-well-being-of-users": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20House&backgroundColor=coral",
+    "published": "2026-02-03T22:04:42.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Protecting the wellbeing of our users",
+    "updated": "2026-02-03T22:04:42.000Z",
+    "url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+  },
+  "pwc-expanded-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&backgroundColor=sky",
+    "published": "2026-05-15T17:32:36.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "updated": "2026-05-15T17:32:36.000Z",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership"
+  },
+  "rahul-patil-joins-anthropic": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-10-07T19:17:27.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Rahul Patil joins Anthropic as Chief Technology Officer",
+    "updated": "2025-10-07T19:17:27.000Z",
+    "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic"
+  },
+  "redeploying-fable-5": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-07-01T19:40:52.000Z",
+    "summary": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.",
+    "title": "Redeploying Claude Fable 5",
+    "updated": "2026-07-01T19:40:52.000Z",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5"
+  },
+  "reed-hastings": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-05-28T15:59:35.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Reed Hastings appointed to Anthropic’s board of directors",
+    "updated": "2025-05-28T15:59:35.000Z",
+    "url": "https://www.anthropic.com/news/reed-hastings"
+  },
+  "reflections-on-our-responsible-scaling-policy": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/f9d8e3afbe514f6120b5c2993de7a2fe2b232588-1200x630.png",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "Last summer we published our first Responsible Scaling Policy (RSP), which focuses on addressing catastrophic safety failures and misuse of frontier models. In adopting this policy, our primary goal is to help turn high-level safety concepts into practical guidelines for fast-moving technical organizations and demonstrate their viability as possible standards. As we operationalize the policy, we expect to learn a great deal and plan to share our findings. This post shares reflections from implementing the policy so far.",
+    "title": "Reflections on our Responsible Scaling Policy",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"
+  },
+  "releasing-claude-instant-1-2": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-04-04T20:19:14.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Releasing Claude Instant 1.2",
+    "updated": "2025-04-04T20:19:14.000Z",
+    "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2"
+  },
+  "responsible-scaling-policy-v3": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=olive",
+    "published": "2026-02-25T23:57:06.000Z",
+    "summary": "An update to Anthropic's policy to mitigate catastrophic risks from AI",
+    "title": "Responsible Scaling Policy Version 3.0",
+    "updated": "2026-02-25T23:57:06.000Z",
+    "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3"
+  },
+  "rwandan-government-partnership-ai-education": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=coral",
+    "published": "2025-11-17T13:29:53.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+    "updated": "2025-11-17T13:29:53.000Z",
+    "url": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education"
+  },
+  "salesforce-anthropic-expanded-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=sky",
+    "published": "2025-10-14T12:02:03.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+    "updated": "2025-10-14T12:02:03.000Z",
+    "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership"
+  },
+  "salesforce-partnership": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/9ed5fc6354cc1fb1fffe7137f173dfa32d7af120-2000x2001.png",
+    "published": "2024-10-16T16:29:04.000Z",
+    "summary": "Salesforce enhances its Einstein 1 Studio with Anthropic's Claude AI models, now available through Amazon Bedrock. Learn how this integration empowers enterprises to improve efficiency and personalization across sales, customer service, marketing, and more.",
+    "title": "Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities",
+    "updated": "2024-10-16T16:29:04.000Z",
+    "url": "https://www.anthropic.com/news/salesforce-partnership"
+  },
+  "securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Column&backgroundColor=heather",
+    "published": "2025-07-23T18:03:43.000Z",
+    "summary": "Anthropic submits detailed recommendations for strengthening US export controls on advanced AI chips and model weights. We advocate for maintaining America's compute advantage, adjusting tiering systems, and reducing no-license thresholds to secure AI leadership.",
+    "title": "Anthropic's AI Export Controls Framework Response",
+    "updated": "2025-07-23T18:03:43.000Z",
+    "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"
+  },
+  "seoul-becomes-third-anthropic-office-in-asia-pacific": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&backgroundColor=olive",
+    "published": "2025-10-23T23:11:18.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
+    "updated": "2025-10-23T23:11:18.000Z",
+    "url": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific"
+  },
+  "seoul-office-partnerships-korean-ai-ecosystem": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=heather",
+    "published": "2026-06-26T12:27:32.000Z",
+    "summary": "Anthropic opens in Seoul and announces new partnerships across the Korean AI ecosystem.",
+    "title": "Anthropic opens Seoul office",
+    "updated": "2026-06-26T12:27:32.000Z",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem"
+  },
+  "series-h": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
+    "published": "2026-06-01T15:29:46.000Z",
+    "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "updated": "2026-06-01T15:29:46.000Z",
+    "url": "https://www.anthropic.com/news/series-h"
+  },
+  "servicenow-anthropic-claude": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNode&backgroundColor=olive",
+    "published": "2026-01-28T22:27:37.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+    "updated": "2026-01-28T22:27:37.000Z",
+    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude"
+  },
+  "services-track-partner-hub": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=fig",
+    "published": "2026-06-03T15:30:11.000Z",
+    "summary": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate.",
+    "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "updated": "2026-06-03T15:30:11.000Z",
+    "url": "https://www.anthropic.com/news/services-track-partner-hub"
+  },
+  "skt-partnership-announcement": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "SKT Partnership Announcement",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/skt-partnership-announcement"
+  },
+  "snowflake-anthropic-expanded-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=sky",
+    "published": "2025-12-03T21:13:50.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+    "updated": "2025-12-03T21:13:50.000Z",
+    "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership"
+  },
+  "statement-comments-secretary-war": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/04e461ada1956ddd7390fe7053f8eb865a7ec26c-4800x2520.png",
+    "published": "2026-02-28T01:31:43.000Z",
+    "summary": "Anthropic's response to the Secretary of War and advice for customers",
+    "title": "Statement on the comments from Secretary of War Pete Hegseth",
+    "updated": "2026-02-28T01:31:43.000Z",
+    "url": "https://www.anthropic.com/news/statement-comments-secretary-war"
+  },
+  "statement-dario-amodei-american-ai-leadership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-10-21T14:30:53.000Z",
+    "summary": "A statement from Anthropic CEO, Dario Amodei, on Anthropic’s commitment to advancing America's leadership in building powerful and beneficial AI",
+    "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+    "updated": "2025-10-21T14:30:53.000Z",
+    "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership"
+  },
+  "statement-department-of-war": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/1864442e2d581ffc8242e7c57e2c4e2309351f49-1200x630.png",
+    "published": "2026-02-26T22:46:57.000Z",
+    "summary": "A statement from our CEO on national security uses of AI",
+    "title": "Statement from Dario Amodei on our discussions with the Department of War",
+    "updated": "2026-02-26T22:46:57.000Z",
+    "url": "https://www.anthropic.com/news/statement-department-of-war"
+  },
+  "strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2025-03-19T16:57:23.000Z",
+    "summary": "In this post, we are sharing what we have learned about the trajectory of potential national security risks from frontier AI models, along with some of our thoughts about challenges and best practices in evaluating these risks.",
+    "title": "Progress from our Frontier Red Team",
+    "updated": "2025-03-19T16:57:23.000Z",
+    "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team"
+  },
+  "strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&backgroundColor=olive",
+    "published": "2025-09-12T19:19:36.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+    "updated": "2025-09-12T19:19:36.000Z",
+    "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"
+  },
+  "sydney-fourth-office-asia-pacific": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&backgroundColor=sky",
+    "published": "2026-03-11T02:10:54.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "updated": "2026-03-11T02:10:54.000Z",
+    "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific"
+  },
+  "tcs-anthropic-partnership": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=olive",
+    "published": "2026-06-26T12:30:44.000Z",
+    "summary": "Anthropic is announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.",
+    "title": "TCS and Anthropic bring Claude to regulated industries",
+    "updated": "2026-06-26T12:30:44.000Z",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership"
+  },
+  "testing-and-mitigating-elections-related-risks": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/9d40780af8d3d89423dd2dcd7aa6fed45cddb273-1200x631.png",
+    "published": "2024-12-19T18:53:48.000Z",
+    "summary": "This blog provides a snapshot of the work we've done since last summer to test our models for elections-related risks.",
+    "title": "Testing and mitigating elections-related risks",
+    "updated": "2024-12-19T18:53:48.000Z",
+    "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks"
+  },
+  "testing-our-safety-defenses-with-a-new-bug-bounty-program": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeMagnifier&backgroundColor=heather",
+    "published": "2025-07-23T18:02:54.000Z",
+    "summary": "Today, we're launching a new bug bounty program to stress-test our latest safety measures, in partnership with HackerOne. Similar to the program we announced last summer, we're challenging red-teamers to find universal jailbreaks in safety classifiers that we haven't yet deployed publicly.",
+    "title": "Testing our safety defenses with a new bug bounty program",
+    "updated": "2025-07-23T18:02:54.000Z",
+    "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program"
+  },
+  "the-anthropic-economic-index": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGraph&backgroundColor=heather",
+    "published": "2025-12-07T14:53:27.000Z",
+    "summary": "Announcement of the new Anthropic Economic Index and description of the new data on AI use in occupations",
+    "title": "Introducing the Anthropic Economic Index",
+    "updated": "2025-12-07T14:53:27.000Z",
+    "url": "https://www.anthropic.com/news/the-anthropic-economic-index"
+  },
+  "the-anthropic-institute": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&backgroundColor=oat",
+    "published": "2026-03-11T15:17:09.000Z",
+    "summary": "We’re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies.",
+    "title": "Introducing The Anthropic Institute",
+    "updated": "2026-03-11T15:17:09.000Z",
+    "url": "https://www.anthropic.com/news/the-anthropic-institute"
+  },
+  "the-case-for-targeted-regulation": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/9d40780af8d3d89423dd2dcd7aa6fed45cddb273-1200x631.png",
+    "published": "2024-10-31T20:26:54.000Z",
+    "summary": "Increasingly powerful AI systems have the potential to accelerate scientific progress, unlock new medical treatments, and grow the economy. But along with the remarkable new capabilities of these AIs come significant risks. Governments should urgently take action on AI policy in the next eighteen months. The window for proactive risk prevention is closing fast.",
+    "title": "The case for targeted regulation",
+    "updated": "2024-10-31T20:26:54.000Z",
+    "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation"
+  },
+  "the-long-term-benefit-trust": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-04-30T16:44:34.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "The Long-Term Benefit Trust",
+    "updated": "2026-04-30T16:44:34.000Z",
+    "url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+  },
+  "the-need-for-transparency-in-frontier-ai": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-07-23T11:44:44.000Z",
+    "summary": "A targeted approach to increasing transparency in frontier AI development, focusing on safety standards and accountability measures for advanced AI systems.",
+    "title": "A framework for AI development transparency",
+    "updated": "2025-07-23T11:44:44.000Z",
+    "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"
+  },
+  "theo-hourmouzis-general-manager-australia-new-zealand": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-04-27T22:30:22.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Anthropic Sydney office",
+    "updated": "2026-04-27T22:30:22.000Z",
+    "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand"
+  },
+  "third-party-testing": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/107aa0f3c5f063d7f6dbb2d059bab460a022d312-2400x1261.jpg",
+    "published": "2024-12-19T18:53:58.000Z",
+    "summary": "We believe that the AI sector needs effective third-party testing for frontier AI systems. Developing a testing regime and associated policy interventions based on the insights of industry, government, and academia is the best way to avoid societal harm—whether deliberate or accidental—from AI systems.",
+    "title": "Third-party testing as a key ingredient of AI policy",
+    "updated": "2024-12-19T18:53:58.000Z",
+    "url": "https://www.anthropic.com/news/third-party-testing"
+  },
+  "thoughts-on-america-s-ai-action-plan": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
+    "published": "2025-11-20T16:26:24.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Thoughts on America’s AI Action Plan",
+    "updated": "2025-11-20T16:26:24.000Z",
+    "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"
+  },
+  "uk-ai-safety-summit": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/uk-ai-safety-summit"
+  },
+  "updates-to-our-consumer-terms": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Multi&backgroundColor=sky",
+    "published": "2025-09-26T21:00:15.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Updates to Consumer Terms and Privacy Policy",
+    "updated": "2025-09-26T21:00:15.000Z",
+    "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms"
+  },
+  "updating-our-usage-policy": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-09-10T17:28:44.000Z",
+    "summary": "We're updating the policies that protect our users and ensure our products and services are used responsibly.",
+    "title": "Updating our Usage Policy",
+    "updated": "2024-09-10T17:28:44.000Z",
+    "url": "https://www.anthropic.com/news/updating-our-usage-policy"
+  },
+  "updating-restrictions-of-sales-to-unsupported-regions": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Multi&backgroundColor=olive",
+    "published": "2025-09-04T22:01:03.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Updating restrictions of sales to unsupported regions",
+    "updated": "2025-09-04T22:01:03.000Z",
+    "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions"
+  },
+  "us-elections-readiness": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/d349f9f92aaf574702f002fbb2b01159e6e4c659-1200x631.png",
+    "published": "2024-10-08T18:29:46.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "U.S. Elections Readiness",
+    "updated": "2024-10-08T18:29:46.000Z",
+    "url": "https://www.anthropic.com/news/us-elections-readiness"
+  },
+  "usage-policy-update": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=coral",
+    "published": "2025-08-16T14:12:51.000Z",
+    "summary": "Updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products",
+    "title": "Usage Policy Update",
+    "updated": "2025-08-16T14:12:51.000Z",
+    "url": "https://www.anthropic.com/news/usage-policy-update"
+  },
+  "where-stand-department-war": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
+    "published": "2026-03-06T00:51:17.000Z",
+    "summary": "A statement from Dario Amodei",
+    "title": "Where things stand with the Department of War",
+    "updated": "2026-03-06T00:51:17.000Z",
+    "url": "https://www.anthropic.com/news/where-stand-department-war"
+  },
+  "widening-conversation-ai": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&backgroundColor=sky",
+    "published": "2026-06-05T14:40:24.000Z",
+    "summary": "Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.",
+    "title": "Widening the conversation on frontier AI",
+    "updated": "2026-06-05T14:40:24.000Z",
+    "url": "https://www.anthropic.com/news/widening-conversation-ai"
+  },
+  "zoom-partnership-and-investment": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Zoom Partnership and Investment in Anthropic",
+    "updated": "2024-08-05T19:55:40.000Z",
+    "url": "https://www.anthropic.com/news/zoom-partnership-and-investment"
+  }
+}

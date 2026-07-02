@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Anthropic News (unofficial)</title>
+    <link>https://example.github.io/claude-watcher/feed.xml</link>
+    <description>Announcements from anthropic.com/news, built hourly from the sitemap.</description>
+    <atom:link href="https://example.github.io/claude-watcher/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.anthropic.com/favicon.ico</url>
+      <title>Anthropic News (unofficial)</title>
+      <link>https://example.github.io/claude-watcher/feed.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2026 19:40:52 +0000</lastBuildDate>
+    <item>
+      <title>Redeploying Claude Fable 5</title>
+      <link>https://www.anthropic.com/news/redeploying-fable-5</link>
+      <description>Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 19:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5 and Claude Mythos 5</title>
+      <link>https://www.anthropic.com/news/claude-fable-5-mythos-5</link>
+      <description>Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 19:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Science, an AI workbench for scientists</title>
+      <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
+      <description>Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 17:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+      <description>Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 21:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic's core views on AI safety</title>
+      <link>https://www.anthropic.com/news/core-views-on-ai-safety</link>
+      <description>AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety of research directions aimed at better understanding, evaluating, and aligning AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/core-views-on-ai-safety</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Rocks&amp;backgroundColor=oat" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:34:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Corps</title>
+      <link>https://www.anthropic.com/news/claude-corps</link>
+      <description>Anthropic is launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>DXC integrates Claude into systems regulated industries rely on</title>
+      <link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
+      <description>Anthropic is announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:32:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>TCS and Anthropic bring Claude to regulated industries</title>
+      <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
+      <description>Anthropic is announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=olive" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic partners with the Gates Foundation</title>
+      <link>https://www.anthropic.com/news/gates-foundation-partnership</link>
+      <description>Anthropic is partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/gates-foundation-partnership</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic opens Seoul office</title>
+      <link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
+      <description>Anthropic opens in Seoul and announces new partnerships across the Korean AI ecosystem.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:27:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Tag</title>
+      <link>https://www.anthropic.com/news/introducing-claude-tag</link>
+      <description>Claude Tag is a new way for teams to work with Claude.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 12:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Developing nuclear safeguards for AI through public-private partnership</title>
+      <link>https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</link>
+      <description>Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an AI system that automatically categorizes content—that distinguishes between concerning and benign nuclear-related conversations with 96% accuracy in preliminary testing.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&amp;backgroundColor=olive" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Jun 2026 16:48:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+      <link>https://www.anthropic.com/news/fable-mythos-access</link>
+      <description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Results from first Anthropic Public Record</title>
+      <link>https://www.anthropic.com/news/anthropic-public-record</link>
+      <description>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 16:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</title>
+      <link>https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</link>
+      <description>The full text of Chris Olah's remarks on the Pope's encyclical on AI.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Jun 2026 14:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widening the conversation on frontier AI</title>
+      <link>https://www.anthropic.com/news/widening-conversation-ai</link>
+      <description>Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/widening-conversation-ai</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Jun 2026 14:40:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
+      <link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
+      <description>As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 16:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
+      <link>https://www.anthropic.com/news/services-track-partner-hub</link>
+      <description>In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/services-track-partner-hub</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 15:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding Project Glasswing</title>
+      <link>https://www.anthropic.com/news/expanding-project-glasswing</link>
+      <description>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-project-glasswing</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 14:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic confidentially submits draft S-1 to the SEC</title>
+      <link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
+      <description>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jun 2026 15:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
+      <link>https://www.anthropic.com/news/series-h</link>
+      <description>Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/series-h</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jun 2026 15:29:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 4.8</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-8</link>
+      <description>Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jun 2026 10:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Design by Anthropic Labs</title>
+      <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
+      <description>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 May 2026 19:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic opens Milan office to support Italian enterprise, research, and developers</title>
+      <link>https://www.anthropic.com/news/milan-office-opening</link>
+      <description>We're opening a new office in Milan, our sixth in Europe.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/milan-office-opening</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 May 2026 13:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic appoints KiYoung Choi as Representative Director of Korea</title>
+      <link>https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</link>
+      <description>KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 23:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic acquires Stainless</title>
+      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 18:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</title>
+      <link>https://www.anthropic.com/news/anthropic-kpmg</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-kpmg</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 13:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</title>
+      <link>https://www.anthropic.com/news/pwc-expanded-partnership</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/pwc-expanded-partnership</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 17:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude for Small Business</title>
+      <link>https://www.anthropic.com/news/claude-for-small-business</link>
+      <description>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-small-business</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 May 2026 16:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agents for financial services</title>
+      <link>https://www.anthropic.com/news/finance-agents</link>
+      <description>We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/finance-agents</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 May 2026 20:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Model Context Protocol</title>
+      <link>https://www.anthropic.com/news/model-context-protocol</link>
+      <description>The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-context-protocol</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 May 2026 20:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
+      <link>https://www.anthropic.com/news/higher-limits-spacex</link>
+      <description>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/higher-limits-spacex</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 May 2026 16:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 4.7</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-7</link>
+      <description>Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-7</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 23:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a new enterprise AI services company with Blackstone, Hellman &amp; Friedman, and Goldman Sachs</title>
+      <link>https://www.anthropic.com/news/enterprise-ai-services-company</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-ai-services-company</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 15:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude for Creative Work</title>
+      <link>https://www.anthropic.com/news/claude-for-creative-work</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-creative-work</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 May 2026 15:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/the-long-term-benefit-trust</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/the-long-term-benefit-trust</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Apr 2026 16:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>An update on our election safeguards</title>
+      <link>https://www.anthropic.com/news/election-safeguards-update</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/election-safeguards-update</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Vote&amp;backgroundColor=olive" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 08:59:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Sydney office</title>
+      <link>https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Apr 2026 22:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute</title>
+      <link>https://www.anthropic.com/news/anthropic-amazon-compute</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-amazon-compute</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 15:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic and NEC partner to build AI-native engineering at scale in Japan</title>
+      <link>https://www.anthropic.com/news/anthropic-nec</link>
+      <description>NEC will deploy Claude to 30,000 employees and become Anthropic's first Japan-based global partner, co-developing AI products for finance, manufacturing, and government</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-nec</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 04:06:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors</title>
+      <link>https://www.anthropic.com/news/narasimhan-board</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/narasimhan-board</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 14:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude for Financial Services</title>
+      <link>https://www.anthropic.com/news/claude-for-financial-services</link>
+      <description>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-financial-services</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Apr 2026 12:11:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing Claude in healthcare and the life sciences</title>
+      <link>https://www.anthropic.com/news/healthcare-life-sciences</link>
+      <description>Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials.gov.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/healthcare-life-sciences</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Heartbeat&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 20:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</title>
+      <link>https://www.anthropic.com/news/google-broadcom-partnership-compute</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Apr 2026 21:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian government and Anthropic sign MOU for AI safety and research</title>
+      <link>https://www.anthropic.com/news/australia-MOU</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/australia-MOU</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 23:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partnering with Mozilla to improve Firefox’s security</title>
+      <link>https://www.anthropic.com/news/mozilla-firefox-security</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/mozilla-firefox-security</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Mar 2026 11:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 4.5</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-5</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 20:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic invests $100 million into the Claude Partner Network</title>
+      <link>https://www.anthropic.com/news/claude-partner-network</link>
+      <description>We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-partner-network</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 19:25:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 4.6</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-6</link>
+      <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-6</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/01d06528567e4bd22c3ddedc87f609ee5716a009-2400x1260.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 17:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Sonnet 4.6</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
+      <description>Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 17:28:36 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
