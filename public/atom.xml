@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://example.github.io/claude-watcher/</id>
+  <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
   <updated>2026-07-01T19:40:52+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
   <link href="https://www.anthropic.com/news" rel="alternate"/>
-  <link href="https://example.github.io/claude-watcher/feed.xml" rel="self"/>
+  <link href="https://elmertucker.github.io/claude-watcher/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
