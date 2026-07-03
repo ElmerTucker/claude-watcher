@@ -436,7 +436,7 @@
     "published": "2025-01-28T00:17:55.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Anthropic's Responsible Scaling Policy",
-    "updated": "2025-01-28T00:17:55.000Z",
+    "updated": "2026-07-03T10:15:38.000Z",
     "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy"
   },
   "apple-xcode-claude-agent-sdk": {
@@ -1060,7 +1060,7 @@
     "published": "2026-07-03T00:02:08.145521+00:00",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-    "updated": "2026-07-03T00:07:08.000Z",
+    "updated": "2026-07-03T10:14:45.000Z",
     "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
   },
   "federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
@@ -1854,6 +1854,14 @@
     "title": "Usage Policy Update",
     "updated": "2025-08-16T14:12:51.000Z",
     "url": "https://www.anthropic.com/news/usage-policy-update"
+  },
+  "visible-extended-thinking": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&backgroundColor=olive",
+    "published": "2026-07-03T10:44:49.582348+00:00",
+    "summary": "Discussing Claude's new thought process",
+    "title": "Claude's extended thinking",
+    "updated": "2026-07-03T10:15:42.000Z",
+    "url": "https://www.anthropic.com/news/visible-extended-thinking"
   },
   "where-stand-department-war": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
