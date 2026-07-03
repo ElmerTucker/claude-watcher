@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-01T19:40:52+00:00</updated>
+  <updated>2026-07-03T00:02:08.145521+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</id>
+    <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
+    <updated>2026-07-02T23:57:55+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-07-03T00:02:08.145521+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/redeploying-fable-5</id>
     <title>Redeploying Claude Fable 5</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/01d06528567e4bd22c3ddedc87f609ee5716a009-2400x1260.png"/>
     <summary>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.</summary>
     <published>2026-03-11T17:28:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/claude-sonnet-4-6</id>
-    <title>Introducing Sonnet 4.6</title>
-    <updated>2026-03-11T17:28:36+00:00</updated>
-    <content>Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.</content>
-    <link href="https://www.anthropic.com/news/claude-sonnet-4-6"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay"/>
-    <summary>Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.</summary>
-    <published>2026-03-11T17:28:36+00:00</published>
   </entry>
 </feed>

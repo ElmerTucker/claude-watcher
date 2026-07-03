@@ -1055,6 +1055,14 @@
     "updated": "2026-06-13T01:13:41.000Z",
     "url": "https://www.anthropic.com/news/fable-mythos-access"
   },
+  "fable-safeguards-jailbreak-framework": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-07-03T00:02:08.145521+00:00",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "updated": "2026-07-02T23:57:55.000Z",
+    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
+  },
   "federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=olive",
     "published": "2025-08-05T21:28:13.000Z",
