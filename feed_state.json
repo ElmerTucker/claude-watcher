@@ -95,6 +95,14 @@
     "updated": "2025-07-23T18:02:36.000Z",
     "url": "https://www.anthropic.com/news/ai-for-science-program"
   },
+  "alberta-government-claude-cybersecurity": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=sky",
+    "published": "2026-07-06T20:50:05.201650+00:00",
+    "summary": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.",
+    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+    "updated": "2026-07-06T19:00:35.000Z",
+    "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+  },
   "an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     "published": "2024-12-19T19:00:24.000Z",

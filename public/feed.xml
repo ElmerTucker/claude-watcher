@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 10:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:50:05 +0000</lastBuildDate>
+    <item>
+      <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities</title>
+      <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+      <description>The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 20:50:05 +0000</pubDate>
+    </item>
     <item>
       <title>Claude's extended thinking</title>
       <link>https://www.anthropic.com/news/visible-extended-thinking</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 20:56:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic invests $100 million into the Claude Partner Network</title>
-      <link>https://www.anthropic.com/news/claude-partner-network</link>
-      <description>We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-partner-network</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Mar 2026 19:25:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

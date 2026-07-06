@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-03T10:44:49.582348+00:00</updated>
+  <updated>2026-07-06T20:50:05.201650+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</id>
+    <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities</title>
+    <updated>2026-07-06T19:00:35+00:00</updated>
+    <content>The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.</content>
+    <link href="https://www.anthropic.com/news/alberta-government-claude-cybersecurity"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky"/>
+    <summary>The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.</summary>
+    <published>2026-07-06T20:50:05.201650+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/visible-extended-thinking</id>
     <title>Claude's extended thinking</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&amp;backgroundColor=clay"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-03-13T20:56:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/claude-partner-network</id>
-    <title>Anthropic invests $100 million into the Claude Partner Network</title>
-    <updated>2026-03-12T19:25:16+00:00</updated>
-    <content>We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.</content>
-    <link href="https://www.anthropic.com/news/claude-partner-network"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig"/>
-    <summary>We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.</summary>
-    <published>2026-03-12T19:25:16+00:00</published>
   </entry>
 </feed>
