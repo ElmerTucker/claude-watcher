@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-06T20:50:05.201650+00:00</updated>
+  <updated>2026-07-09T13:46:17.711987+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/reflect-with-claude</id>
+    <title>A new way to reflect on how you use Claude</title>
+    <updated>2026-07-09T13:32:12+00:00</updated>
+    <content>Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.</content>
+    <link href="https://www.anthropic.com/news/reflect-with-claude"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus"/>
+    <summary>Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.</summary>
+    <published>2026-07-09T13:46:17.711987+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</id>
     <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-03-26T11:05:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/claude-opus-4-5</id>
-    <title>Introducing Claude Opus 4.5</title>
-    <updated>2026-03-13T20:56:07+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/claude-opus-4-5"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&amp;backgroundColor=clay"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-03-13T20:56:07+00:00</published>
   </entry>
 </feed>

@@ -1567,6 +1567,14 @@
     "updated": "2025-05-28T15:59:35.000Z",
     "url": "https://www.anthropic.com/news/reed-hastings"
   },
+  "reflect-with-claude": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=cactus",
+    "published": "2026-07-09T13:46:17.711987+00:00",
+    "summary": "Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.",
+    "title": "A new way to reflect on how you use Claude",
+    "updated": "2026-07-09T13:32:12.000Z",
+    "url": "https://www.anthropic.com/news/reflect-with-claude"
+  },
   "reflections-on-our-responsible-scaling-policy": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/f9d8e3afbe514f6120b5c2993de7a2fe2b232588-1200x630.png",
     "published": "2024-09-10T17:28:44.000Z",

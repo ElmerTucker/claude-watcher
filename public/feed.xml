@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 20:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:46:17 +0000</lastBuildDate>
+    <item>
+      <title>A new way to reflect on how you use Claude</title>
+      <link>https://www.anthropic.com/news/reflect-with-claude</link>
+      <description>Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 13:46:17 +0000</pubDate>
+    </item>
     <item>
       <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities</title>
       <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/mozilla-firefox-security</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 11:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Opus 4.5</title>
-      <link>https://www.anthropic.com/news/claude-opus-4-5</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 20:56:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
