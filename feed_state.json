@@ -463,6 +463,14 @@
     "updated": "2026-03-31T23:16:54.000Z",
     "url": "https://www.anthropic.com/news/australia-MOU"
   },
+  "ben-bernanke": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-07-09T18:47:45.971874+00:00",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "updated": "2026-07-09T18:07:20.000Z",
+    "url": "https://www.anthropic.com/news/ben-bernanke"
+  },
   "bengaluru-office-partnerships-across-india": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=fig",
     "published": "2026-02-17T15:11:31.000Z",
@@ -1166,6 +1174,14 @@
     "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
     "updated": "2026-01-27T17:47:33.000Z",
     "url": "https://www.anthropic.com/news/gov-UK-partnership"
+  },
+  "hard-questions": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b3ddb82292e92030f4677d004bf0d7d795be7bd1-1200x630.jpg",
+    "published": "2026-07-09T18:47:49.402280+00:00",
+    "summary": "We're asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "title": "Inviting hard questions",
+    "updated": "2026-07-09T17:28:23.000Z",
+    "url": "https://www.anthropic.com/news/hard-questions"
   },
   "head-of-EMEA-new-roles": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",

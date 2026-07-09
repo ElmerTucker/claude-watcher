@@ -13,7 +13,23 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:47:49 +0000</lastBuildDate>
+    <item>
+      <title>Inviting hard questions</title>
+      <link>https://www.anthropic.com/news/hard-questions</link>
+      <description>We're asking the public for their hardest questions about AI, and committing to show our work as we address them.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/b3ddb82292e92030f4677d004bf0d7d795be7bd1-1200x630.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 18:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/ben-bernanke</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 18:47:45 +0000</pubDate>
+    </item>
     <item>
       <title>A new way to reflect on how you use Claude</title>
       <link>https://www.anthropic.com/news/reflect-with-claude</link>
@@ -397,22 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Apr 2026 21:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian government and Anthropic sign MOU for AI safety and research</title>
-      <link>https://www.anthropic.com/news/australia-MOU</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/australia-MOU</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 23:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partnering with Mozilla to improve Firefox’s security</title>
-      <link>https://www.anthropic.com/news/mozilla-firefox-security</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/mozilla-firefox-security</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Mar 2026 11:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

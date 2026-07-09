@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-09T13:46:17.711987+00:00</updated>
+  <updated>2026-07-09T18:47:49.402280+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,26 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/hard-questions</id>
+    <title>Inviting hard questions</title>
+    <updated>2026-07-09T17:28:23+00:00</updated>
+    <content>We're asking the public for their hardest questions about AI, and committing to show our work as we address them.</content>
+    <link href="https://www.anthropic.com/news/hard-questions"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/b3ddb82292e92030f4677d004bf0d7d795be7bd1-1200x630.jpg"/>
+    <summary>We're asking the public for their hardest questions about AI, and committing to show our work as we address them.</summary>
+    <published>2026-07-09T18:47:49.402280+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/ben-bernanke</id>
+    <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+    <updated>2026-07-09T18:07:20+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/ben-bernanke"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-07-09T18:47:45.971874+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/reflect-with-claude</id>
     <title>A new way to reflect on how you use Claude</title>
@@ -490,25 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-04-06T21:43:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/australia-MOU</id>
-    <title>Australian government and Anthropic sign MOU for AI safety and research</title>
-    <updated>2026-03-31T23:16:54+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/australia-MOU"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-03-31T23:16:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/mozilla-firefox-security</id>
-    <title>Partnering with Mozilla to improve Firefox’s security</title>
-    <updated>2026-03-26T11:05:56+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/mozilla-firefox-security"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-03-26T11:05:56+00:00</published>
   </entry>
 </feed>
