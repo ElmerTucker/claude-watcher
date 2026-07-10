@@ -1887,6 +1887,14 @@
     "updated": "2025-08-16T14:12:51.000Z",
     "url": "https://www.anthropic.com/news/usage-policy-update"
   },
+  "ust-claude": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&backgroundColor=coral",
+    "published": "2026-07-10T04:46:10.805090+00:00",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "UST is bringing Claude to physical AI",
+    "updated": "2026-07-10T00:37:25.000Z",
+    "url": "https://www.anthropic.com/news/ust-claude"
+  },
   "visible-extended-thinking": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&backgroundColor=olive",
     "published": "2026-07-03T10:44:49.582348+00:00",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-09T18:47:49.402280+00:00</updated>
+  <updated>2026-07-10T04:46:10.805090+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/ust-claude</id>
+    <title>UST is bringing Claude to physical AI</title>
+    <updated>2026-07-10T00:37:25+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/ust-claude"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-07-10T04:46:10.805090+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/hard-questions</id>
     <title>Inviting hard questions</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Heartbeat&amp;backgroundColor=fig"/>
     <summary>Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials.gov.</summary>
     <published>2026-04-09T20:25:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/google-broadcom-partnership-compute</id>
-    <title>Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</title>
-    <updated>2026-04-06T21:43:38+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/google-broadcom-partnership-compute"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-04-06T21:43:38+00:00</published>
   </entry>
 </feed>
