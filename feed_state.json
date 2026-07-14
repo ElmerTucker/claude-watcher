@@ -500,7 +500,7 @@
     "published": "2026-07-14T13:23:56.164057+00:00",
     "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.",
     "title": "Anthropic commits $10 million to Canadian AI research",
-    "updated": "2026-07-14T13:00:38.000Z",
+    "updated": "2026-07-14T14:19:53.000Z",
     "url": "https://www.anthropic.com/news/canadian-ai-research"
   },
   "challenges-in-red-teaming-ai-systems": {
@@ -702,6 +702,14 @@
     "title": "Introducing Claude for Small Business",
     "updated": "2026-05-14T16:16:25.000Z",
     "url": "https://www.anthropic.com/news/claude-for-small-business"
+  },
+  "claude-for-teachers": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-07-14T15:21:00.977761+00:00",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Introducing Claude for Teachers",
+    "updated": "2026-07-14T14:59:22.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-teachers"
   },
   "claude-gov-models-for-u-s-national-security-customers": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",

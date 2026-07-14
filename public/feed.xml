@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 13:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 15:21:00 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Claude for Teachers</title>
+      <link>https://www.anthropic.com/news/claude-for-teachers</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-teachers</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 15:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic commits $10 million to Canadian AI research</title>
       <link>https://www.anthropic.com/news/canadian-ai-research</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/narasimhan-board</guid>
       <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 14:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude for Financial Services</title>
-      <link>https://www.anthropic.com/news/claude-for-financial-services</link>
-      <description>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-financial-services</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Apr 2026 12:11:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

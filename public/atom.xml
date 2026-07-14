@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-14T13:23:56.164057+00:00</updated>
+  <updated>2026-07-14T15:21:00.977761+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -12,9 +12,19 @@
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
   <entry>
+    <id>https://www.anthropic.com/news/claude-for-teachers</id>
+    <title>Introducing Claude for Teachers</title>
+    <updated>2026-07-14T14:59:22+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/claude-for-teachers"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-07-14T15:21:00.977761+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.anthropic.com/news/canadian-ai-research</id>
     <title>Anthropic commits $10 million to Canadian AI research</title>
-    <updated>2026-07-14T13:00:38+00:00</updated>
+    <updated>2026-07-14T14:19:53+00:00</updated>
     <content>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</content>
     <link href="https://www.anthropic.com/news/canadian-ai-research"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus"/>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-04-14T14:00:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/claude-for-financial-services</id>
-    <title>Claude for Financial Services</title>
-    <updated>2026-04-10T12:11:09+00:00</updated>
-    <content>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</content>
-    <link href="https://www.anthropic.com/news/claude-for-financial-services"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=clay"/>
-    <summary>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</summary>
-    <published>2026-04-10T12:11:09+00:00</published>
   </entry>
 </feed>
