@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-10T04:46:10.805090+00:00</updated>
+  <updated>2026-07-14T13:23:56.164057+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/canadian-ai-research</id>
+    <title>Anthropic commits $10 million to Canadian AI research</title>
+    <updated>2026-07-14T13:00:38+00:00</updated>
+    <content>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</content>
+    <link href="https://www.anthropic.com/news/canadian-ai-research"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus"/>
+    <summary>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</summary>
+    <published>2026-07-14T13:23:56.164057+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/ust-claude</id>
     <title>UST is bringing Claude to physical AI</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=clay"/>
     <summary>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</summary>
     <published>2026-04-10T12:11:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/healthcare-life-sciences</id>
-    <title>Advancing Claude in healthcare and the life sciences</title>
-    <updated>2026-04-09T20:25:31+00:00</updated>
-    <content>Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials.gov.</content>
-    <link href="https://www.anthropic.com/news/healthcare-life-sciences"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Heartbeat&amp;backgroundColor=fig"/>
-    <summary>Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials.gov.</summary>
-    <published>2026-04-09T20:25:31+00:00</published>
   </entry>
 </feed>

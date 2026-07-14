@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 04:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:23:56 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic commits $10 million to Canadian AI research</title>
+      <link>https://www.anthropic.com/news/canadian-ai-research</link>
+      <description>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/canadian-ai-research</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 13:23:56 +0000</pubDate>
+    </item>
     <item>
       <title>UST is bringing Claude to physical AI</title>
       <link>https://www.anthropic.com/news/ust-claude</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-financial-services</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Apr 2026 12:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advancing Claude in healthcare and the life sciences</title>
-      <link>https://www.anthropic.com/news/healthcare-life-sciences</link>
-      <description>Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials.gov.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/healthcare-life-sciences</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Heartbeat&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 20:25:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
