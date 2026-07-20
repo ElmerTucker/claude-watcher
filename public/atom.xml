@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-14T15:21:00.977761+00:00</updated>
+  <updated>2026-07-20T17:56:48.475658+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/rare-disease-research-grants</id>
+    <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
+    <updated>2026-07-20T17:36:28+00:00</updated>
+    <content>Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.</content>
+    <link href="https://www.anthropic.com/news/rare-disease-research-grants"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeShield&amp;backgroundColor=heather"/>
+    <summary>Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.</summary>
+    <published>2026-07-20T17:56:48.475658+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-for-teachers</id>
     <title>Introducing Claude for Teachers</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather"/>
     <summary>NEC will deploy Claude to 30,000 employees and become Anthropic's first Japan-based global partner, co-developing AI products for finance, manufacturing, and government</summary>
     <published>2026-04-24T04:06:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/narasimhan-board</id>
-    <title>Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors</title>
-    <updated>2026-04-14T14:00:04+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/narasimhan-board"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-04-14T14:00:04+00:00</published>
   </entry>
 </feed>
