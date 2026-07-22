@@ -644,7 +644,7 @@
     "published": "2026-05-28T19:33:59.000Z",
     "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
     "title": "Introducing Claude Design by Anthropic Labs",
-    "updated": "2026-07-13T15:41:00.000Z",
+    "updated": "2026-07-22T01:02:08.000Z",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
   },
   "claude-europe": {
@@ -700,7 +700,7 @@
     "published": "2026-05-14T16:16:25.000Z",
     "summary": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
     "title": "Introducing Claude for Small Business",
-    "updated": "2026-05-14T16:16:25.000Z",
+    "updated": "2026-07-22T00:59:47.000Z",
     "url": "https://www.anthropic.com/news/claude-for-small-business"
   },
   "claude-for-teachers": {
@@ -724,7 +724,7 @@
     "published": "2025-11-20T16:25:50.000Z",
     "summary": "Claude Haiku 4.5, our latest small model, is available today to all users.",
     "title": "Introducing Claude Haiku 4.5",
-    "updated": "2025-11-20T16:25:50.000Z",
+    "updated": "2026-07-22T01:05:15.000Z",
     "url": "https://www.anthropic.com/news/claude-haiku-4-5"
   },
   "claude-in-amazon-bedrock-fedramp-high": {
@@ -780,7 +780,7 @@
     "published": "2026-03-13T20:56:07.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Introducing Claude Opus 4.5",
-    "updated": "2026-03-13T20:56:07.000Z",
+    "updated": "2026-07-22T01:28:08.000Z",
     "url": "https://www.anthropic.com/news/claude-opus-4-5"
   },
   "claude-opus-4-6": {
@@ -788,7 +788,7 @@
     "published": "2026-03-11T17:28:58.000Z",
     "summary": "We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
     "title": "Claude Opus 4.6",
-    "updated": "2026-03-11T17:28:58.000Z",
+    "updated": "2026-07-22T00:06:14.000Z",
     "url": "https://www.anthropic.com/news/claude-opus-4-6"
   },
   "claude-opus-4-7": {
@@ -796,7 +796,7 @@
     "published": "2026-05-04T23:23:49.000Z",
     "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.",
     "title": "Introducing Claude Opus 4.7",
-    "updated": "2026-05-04T23:23:49.000Z",
+    "updated": "2026-07-22T01:26:31.000Z",
     "url": "https://www.anthropic.com/news/claude-opus-4-7"
   },
   "claude-opus-4-8": {
@@ -804,7 +804,7 @@
     "published": "2026-06-01T10:18:23.000Z",
     "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
     "title": "Introducing Claude Opus 4.8",
-    "updated": "2026-06-01T10:18:23.000Z",
+    "updated": "2026-07-22T01:28:45.000Z",
     "url": "https://www.anthropic.com/news/claude-opus-4-8"
   },
   "claude-partner-network": {
@@ -836,7 +836,7 @@
     "published": "2025-11-20T16:26:28.000Z",
     "summary": "Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers.",
     "title": "Introducing Claude Sonnet 4.5",
-    "updated": "2025-11-20T16:26:28.000Z",
+    "updated": "2026-07-22T01:13:43.000Z",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-5"
   },
   "claude-sonnet-4-6": {
@@ -844,7 +844,7 @@
     "published": "2026-03-11T17:28:36.000Z",
     "summary": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.",
     "title": "Introducing Sonnet 4.6",
-    "updated": "2026-03-11T17:28:36.000Z",
+    "updated": "2026-07-21T23:52:43.000Z",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6"
   },
   "claude-sonnet-5": {
@@ -852,7 +852,7 @@
     "published": "2026-06-30T21:20:30.000Z",
     "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
     "title": "Introducing Claude Sonnet 5",
-    "updated": "2026-07-07T17:07:52.000Z",
+    "updated": "2026-07-22T01:20:28.000Z",
     "url": "https://www.anthropic.com/news/claude-sonnet-5"
   },
   "claudes-constitution": {
@@ -1710,6 +1710,14 @@
     "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
     "updated": "2026-06-03T15:30:11.000Z",
     "url": "https://www.anthropic.com/news/services-track-partner-hub"
+  },
+  "skills": {
+    "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6902681b6935a6f61e64165c_og_introducing-agent-skills.jpg",
+    "published": "2026-07-22T02:10:21.324146+00:00",
+    "summary": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
+    "title": "Introducing Agent Skills | Claude by Anthropic",
+    "updated": "2026-07-22T01:16:15.000Z",
+    "url": "https://www.anthropic.com/news/skills"
   },
   "skt-partnership-announcement": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",

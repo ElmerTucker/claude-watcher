@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-20T17:56:48.475658+00:00</updated>
+  <updated>2026-07-22T02:10:21.324146+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/skills</id>
+    <title>Introducing Agent Skills | Claude by Anthropic</title>
+    <updated>2026-07-22T01:16:15+00:00</updated>
+    <content>Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.</content>
+    <link href="https://www.anthropic.com/news/skills"/>
+    <link href="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6902681b6935a6f61e64165c_og_introducing-agent-skills.jpg"/>
+    <summary>Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.</summary>
+    <published>2026-07-22T02:10:21.324146+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/rare-disease-research-grants</id>
     <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
@@ -144,7 +154,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-sonnet-5</id>
     <title>Introducing Claude Sonnet 5</title>
-    <updated>2026-07-07T17:07:52+00:00</updated>
+    <updated>2026-07-22T01:20:28+00:00</updated>
     <content>Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.</content>
     <link href="https://www.anthropic.com/news/claude-sonnet-5"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png"/>
@@ -324,7 +334,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-opus-4-8</id>
     <title>Introducing Claude Opus 4.8</title>
-    <updated>2026-06-01T10:18:23+00:00</updated>
+    <updated>2026-07-22T01:28:45+00:00</updated>
     <content>Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</content>
     <link href="https://www.anthropic.com/news/claude-opus-4-8"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"/>
@@ -334,7 +344,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-design-anthropic-labs</id>
     <title>Introducing Claude Design by Anthropic Labs</title>
-    <updated>2026-07-13T15:41:00+00:00</updated>
+    <updated>2026-07-22T01:02:08+00:00</updated>
     <content>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</content>
     <link href="https://www.anthropic.com/news/claude-design-anthropic-labs"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus"/>
@@ -394,7 +404,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-for-small-business</id>
     <title>Introducing Claude for Small Business</title>
-    <updated>2026-05-14T16:16:25+00:00</updated>
+    <updated>2026-07-22T00:59:47+00:00</updated>
     <content>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</content>
     <link href="https://www.anthropic.com/news/claude-for-small-business"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay"/>
@@ -434,7 +444,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-opus-4-7</id>
     <title>Introducing Claude Opus 4.7</title>
-    <updated>2026-05-04T23:23:49+00:00</updated>
+    <updated>2026-07-22T01:26:31+00:00</updated>
     <content>Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.</content>
     <link href="https://www.anthropic.com/news/claude-opus-4-7"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png"/>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-04-24T15:50:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/anthropic-nec</id>
-    <title>Anthropic and NEC partner to build AI-native engineering at scale in Japan</title>
-    <updated>2026-04-24T04:06:50+00:00</updated>
-    <content>NEC will deploy Claude to 30,000 employees and become Anthropic's first Japan-based global partner, co-developing AI products for finance, manufacturing, and government</content>
-    <link href="https://www.anthropic.com/news/anthropic-nec"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather"/>
-    <summary>NEC will deploy Claude to 30,000 employees and become Anthropic's first Japan-based global partner, co-developing AI products for finance, manufacturing, and government</summary>
-    <published>2026-04-24T04:06:50+00:00</published>
   </entry>
 </feed>
