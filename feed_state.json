@@ -679,6 +679,14 @@
     "updated": "2026-07-13T15:46:07.000Z",
     "url": "https://www.anthropic.com/news/claude-for-creative-work"
   },
+  "claude-for-creative-work-dev": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
+    "published": "2026-07-23T19:07:58.275126+00:00",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "[dev] Claude for Creative Work",
+    "updated": "2026-07-23T17:44:09.000Z",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work-dev"
+  },
   "claude-for-financial-services": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=clay",
     "published": "2026-04-10T12:11:09.000Z",

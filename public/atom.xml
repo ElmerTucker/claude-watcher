@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-22T17:12:31.841723+00:00</updated>
+  <updated>2026-07-23T19:07:58.275126+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-for-creative-work-dev</id>
+    <title>[dev] Claude for Creative Work</title>
+    <updated>2026-07-23T17:44:09+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/claude-for-creative-work-dev"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-07-23T19:07:58.275126+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/economic-futures-research-fund-agenda</id>
     <title>Supporting ambitious external research through the Anthropic Economic Futures Research Fund</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-05-01T15:44:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/the-long-term-benefit-trust</id>
-    <title>The Long-Term Benefit Trust</title>
-    <updated>2026-07-09T19:21:35+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/the-long-term-benefit-trust"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-04-30T16:44:34+00:00</published>
   </entry>
 </feed>
