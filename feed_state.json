@@ -823,6 +823,14 @@
     "updated": "2026-07-22T01:28:45.000Z",
     "url": "https://www.anthropic.com/news/claude-opus-4-8"
   },
+  "claude-opus-5": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+    "published": "2026-07-24T18:15:18.188297+00:00",
+    "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "title": "Introducing Claude Opus 5",
+    "updated": "2026-07-24T17:54:47.000Z",
+    "url": "https://www.anthropic.com/news/claude-opus-5"
+  },
   "claude-partner-network": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=fig",
     "published": "2026-03-12T19:25:16.000Z",

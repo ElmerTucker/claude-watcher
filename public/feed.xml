@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:15:18 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://www.anthropic.com/news/claude-opus-5</link>
+      <description>Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 18:15:18 +0000</pubDate>
+    </item>
     <item>
       <title>[dev] Claude for Creative Work</title>
       <link>https://www.anthropic.com/news/claude-for-creative-work-dev</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-ai-services-company</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 May 2026 15:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude for Creative Work</title>
-      <link>https://www.anthropic.com/news/claude-for-creative-work</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-creative-work</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 15:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
