@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-27T16:13:18.958629+00:00</updated>
+  <updated>2026-07-27T22:01:56.416260+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/position-open-weights-models</id>
+    <title>Our position on open-weights models</title>
+    <updated>2026-07-27T21:55:20+00:00</updated>
+    <content>Anthropic CEO Dario Amodei on open-weights models</content>
+    <link href="https://www.anthropic.com/news/position-open-weights-models"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png"/>
+    <summary>Anthropic CEO Dario Amodei on open-weights models</summary>
+    <published>2026-07-27T22:01:56.416260+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/cognizant-anthropic</id>
     <title>Expanding our partnership with Cognizant | Anthropic</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig"/>
     <summary>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.</summary>
     <published>2026-05-06T16:35:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/claude-opus-4-7</id>
-    <title>Introducing Claude Opus 4.7</title>
-    <updated>2026-07-23T04:19:56+00:00</updated>
-    <content>Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.</content>
-    <link href="https://www.anthropic.com/news/claude-opus-4-7"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png"/>
-    <summary>Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.</summary>
-    <published>2026-05-04T23:23:49+00:00</published>
   </entry>
 </feed>

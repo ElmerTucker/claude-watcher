@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:01:56 +0000</lastBuildDate>
+    <item>
+      <title>Our position on open-weights models</title>
+      <link>https://www.anthropic.com/news/position-open-weights-models</link>
+      <description>Anthropic CEO Dario Amodei on open-weights models</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 22:01:56 +0000</pubDate>
+    </item>
     <item>
       <title>Expanding our partnership with Cognizant | Anthropic</title>
       <link>https://www.anthropic.com/news/cognizant-anthropic</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/higher-limits-spacex</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 16:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Opus 4.7</title>
-      <link>https://www.anthropic.com/news/claude-opus-4-7</link>
-      <description>Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-7</guid>
-      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 23:23:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
