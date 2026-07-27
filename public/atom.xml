@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-24T18:15:18.188297+00:00</updated>
+  <updated>2026-07-27T16:13:18.958629+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/cognizant-anthropic</id>
+    <title>Expanding our partnership with Cognizant | Anthropic</title>
+    <updated>2026-07-27T15:34:00+00:00</updated>
+    <content>Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.</content>
+    <link href="https://www.anthropic.com/news/cognizant-anthropic"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.</summary>
+    <published>2026-07-27T16:13:18.958629+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-opus-5</id>
     <title>Introducing Claude Opus 5</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png"/>
     <summary>Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.</summary>
     <published>2026-05-04T23:23:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/enterprise-ai-services-company</id>
-    <title>Building a new enterprise AI services company with Blackstone, Hellman &amp; Friedman, and Goldman Sachs</title>
-    <updated>2026-05-04T15:43:58+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/enterprise-ai-services-company"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-05-04T15:43:58+00:00</published>
   </entry>
 </feed>
