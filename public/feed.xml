@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 22:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 02:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+      <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
+      <description>In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 02:23:32 +0000</pubDate>
+    </item>
     <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/model-context-protocol</guid>
       <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 20:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
-      <link>https://www.anthropic.com/news/higher-limits-spacex</link>
-      <description>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/higher-limits-spacex</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 May 2026 16:35:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

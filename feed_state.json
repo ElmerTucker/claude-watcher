@@ -1359,6 +1359,14 @@
     "updated": "2025-08-27T13:01:25.000Z",
     "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council"
   },
+  "investigating-incidents-cybersecurity-evals": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+    "published": "2026-07-31T02:23:32.882031+00:00",
+    "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "updated": "2026-07-30T23:14:55.000Z",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+  },
   "investing-in-energy-to-secure-america-s-ai-future": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Plant&backgroundColor=cactus",
     "published": "2025-07-23T18:29:19.000Z",

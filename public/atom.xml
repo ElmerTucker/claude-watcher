@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-27T22:01:56.416260+00:00</updated>
+  <updated>2026-07-31T02:23:32.882031+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</id>
+    <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+    <updated>2026-07-30T23:14:55+00:00</updated>
+    <content>In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.</content>
+    <link href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather"/>
+    <summary>In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.</summary>
+    <published>2026-07-31T02:23:32.882031+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/position-open-weights-models</id>
     <title>Our position on open-weights models</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png"/>
     <summary>The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.</summary>
     <published>2026-05-07T20:07:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/higher-limits-spacex</id>
-    <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
-    <updated>2026-05-06T16:35:37+00:00</updated>
-    <content>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.</content>
-    <link href="https://www.anthropic.com/news/higher-limits-spacex"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig"/>
-    <summary>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.</summary>
-    <published>2026-05-06T16:35:37+00:00</published>
   </entry>
 </feed>
