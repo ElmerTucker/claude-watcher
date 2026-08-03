@@ -708,7 +708,7 @@
     "published": "2026-02-09T15:51:38.000Z",
     "summary": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits.",
     "title": "Introducing Claude for Nonprofits",
-    "updated": "2026-02-09T15:51:38.000Z",
+    "updated": "2026-08-03T16:00:43.000Z",
     "url": "https://www.anthropic.com/news/claude-for-nonprofits"
   },
   "claude-for-small-business": {
@@ -1364,7 +1364,7 @@
     "published": "2026-07-31T02:23:32.882031+00:00",
     "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "updated": "2026-07-30T23:14:55.000Z",
+    "updated": "2026-08-03T14:36:32.000Z",
     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
   },
   "investing-in-energy-to-secure-america-s-ai-future": {
