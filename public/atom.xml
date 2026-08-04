@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-07-31T02:23:32.882031+00:00</updated>
+  <updated>2026-08-04T17:41:32.722109+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/tino-cuellar</id>
+    <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
+    <updated>2026-08-04T17:40:15+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/tino-cuellar"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-08-04T17:41:32.722109+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</id>
     <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&amp;backgroundColor=clay"/>
     <summary>We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.</summary>
     <published>2026-05-07T20:29:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/model-context-protocol</id>
-    <title>Introducing the Model Context Protocol</title>
-    <updated>2026-05-07T20:07:05+00:00</updated>
-    <content>The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.</content>
-    <link href="https://www.anthropic.com/news/model-context-protocol"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png"/>
-    <summary>The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.</summary>
-    <published>2026-05-07T20:07:05+00:00</published>
   </entry>
 </feed>

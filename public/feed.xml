@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 02:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:41:32 +0000</lastBuildDate>
+    <item>
+      <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
+      <link>https://www.anthropic.com/news/tino-cuellar</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/tino-cuellar</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 17:41:32 +0000</pubDate>
+    </item>
     <item>
       <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
       <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/finance-agents</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 20:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Model Context Protocol</title>
-      <link>https://www.anthropic.com/news/model-context-protocol</link>
-      <description>The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/model-context-protocol</guid>
-      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 20:07:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
