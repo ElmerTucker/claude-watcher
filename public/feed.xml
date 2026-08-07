@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 03:46:47 +0000</lastBuildDate>
+    <item>
+      <title>Improving Fable 5 Safeguards</title>
+      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+      <description>We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 03:46:47 +0000</pubDate>
+    </item>
     <item>
       <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
       <link>https://www.anthropic.com/news/tino-cuellar</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-small-business</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 May 2026 16:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agents for financial services</title>
-      <link>https://www.anthropic.com/news/finance-agents</link>
-      <description>We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/finance-agents</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 20:29:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

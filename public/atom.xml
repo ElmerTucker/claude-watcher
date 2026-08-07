@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-08-04T17:41:32.722109+00:00</updated>
+  <updated>2026-08-07T03:46:47.466623+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</id>
+    <title>Improving Fable 5 Safeguards</title>
+    <updated>2026-08-07T03:05:42+00:00</updated>
+    <content>We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.</content>
+    <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&amp;backgroundColor=heather"/>
+    <summary>We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.</summary>
+    <published>2026-08-07T03:46:47.466623+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/tino-cuellar</id>
     <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay"/>
     <summary>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</summary>
     <published>2026-05-14T16:16:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/finance-agents</id>
-    <title>Agents for financial services</title>
-    <updated>2026-07-15T21:16:19+00:00</updated>
-    <content>We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.</content>
-    <link href="https://www.anthropic.com/news/finance-agents"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&amp;backgroundColor=clay"/>
-    <summary>We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.</summary>
-    <published>2026-05-07T20:29:52+00:00</published>
   </entry>
 </feed>

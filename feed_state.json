@@ -1287,6 +1287,14 @@
     "updated": "2025-12-12T01:47:15.000Z",
     "url": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"
   },
+  "improving-fable-5-s-biology-safeguards": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&backgroundColor=heather",
+    "published": "2026-08-07T03:46:47.466623+00:00",
+    "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
+    "title": "Improving Fable 5 Safeguards",
+    "updated": "2026-08-07T03:05:42.000Z",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+  },
   "introducing-anthropic-labs": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=sky",
     "published": "2026-01-13T22:46:14.000Z",
