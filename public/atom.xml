@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-08-07T03:46:47.466623+00:00</updated>
+  <updated>2026-08-14T19:44:00.948060+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-text-watermark</id>
+    <title>How Claude's text watermarking works</title>
+    <updated>2026-08-14T19:16:56+00:00</updated>
+    <content>Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</content>
+    <link href="https://www.anthropic.com/news/claude-text-watermark"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather"/>
+    <summary>Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</summary>
+    <published>2026-08-14T19:44:00.948060+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</id>
     <title>Improving Fable 5 Safeguards</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&amp;backgroundColor=sky"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-05-15T17:32:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/claude-for-small-business</id>
-    <title>Introducing Claude for Small Business</title>
-    <updated>2026-07-22T00:59:47+00:00</updated>
-    <content>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</content>
-    <link href="https://www.anthropic.com/news/claude-for-small-business"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay"/>
-    <summary>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</summary>
-    <published>2026-05-14T16:16:25+00:00</published>
   </entry>
 </feed>

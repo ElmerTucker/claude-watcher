@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:44:00 +0000</lastBuildDate>
+    <item>
+      <title>How Claude's text watermarking works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <description>Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 19:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Improving Fable 5 Safeguards</title>
       <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/pwc-expanded-partnership</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
       <pubDate>Fri, 15 May 2026 17:32:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude for Small Business</title>
-      <link>https://www.anthropic.com/news/claude-for-small-business</link>
-      <description>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-small-business</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 16:16:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
