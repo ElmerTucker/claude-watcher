@@ -884,7 +884,7 @@
     "published": "2026-08-14T19:44:00.948060+00:00",
     "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
     "title": "How Claude's text watermarking works",
-    "updated": "2026-08-15T05:53:01.000Z",
+    "updated": "2026-08-24T15:41:58.000Z",
     "url": "https://www.anthropic.com/news/claude-text-watermark"
   },
   "claudes-constitution": {
@@ -1300,7 +1300,7 @@
     "published": "2026-08-07T03:46:47.466623+00:00",
     "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
     "title": "Improving Fable 5 Safeguards",
-    "updated": "2026-08-07T03:05:42.000Z",
+    "updated": "2026-08-24T15:42:06.000Z",
     "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
   },
   "introducing-anthropic-labs": {
