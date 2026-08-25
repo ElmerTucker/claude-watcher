@@ -220,7 +220,7 @@
     "published": "2026-07-22T17:12:27.428275+00:00",
     "summary": "We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly.",
     "title": "The Anthropic Economic Index connector",
-    "updated": "2026-07-22T17:35:48.000Z",
+    "updated": "2026-08-25T16:13:14.000Z",
     "url": "https://www.anthropic.com/news/anthropic-economic-index-connector"
   },
   "anthropic-economic-index-insights-from-claude-sonnet-3-7": {
@@ -228,7 +228,7 @@
     "published": "2025-12-07T14:53:39.000Z",
     "summary": "The second update from the Anthropic Economic Index",
     "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
-    "updated": "2025-12-07T14:53:39.000Z",
+    "updated": "2026-08-25T16:13:14.000Z",
     "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7"
   },
   "anthropic-education-report-how-educators-use-claude": {
@@ -1044,7 +1044,7 @@
     "published": "2026-07-22T17:12:31.841723+00:00",
     "summary": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research.",
     "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
-    "updated": "2026-07-24T18:46:48.000Z",
+    "updated": "2026-08-25T16:13:14.000Z",
     "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
   },
   "economic-futures-uk-europe": {
@@ -1052,7 +1052,7 @@
     "published": "2025-11-05T07:57:22.000Z",
     "summary": "Anthropic's support for economic research comes to the UK and Europe",
     "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
-    "updated": "2025-11-05T07:57:22.000Z",
+    "updated": "2026-08-25T16:13:14.000Z",
     "url": "https://www.anthropic.com/news/economic-futures-uk-europe"
   },
   "election-safeguards-update": {
@@ -1892,7 +1892,7 @@
     "published": "2025-12-07T14:53:27.000Z",
     "summary": "Announcement of the new Anthropic Economic Index and description of the new data on AI use in occupations",
     "title": "Introducing the Anthropic Economic Index",
-    "updated": "2025-12-07T14:53:27.000Z",
+    "updated": "2026-08-25T16:13:14.000Z",
     "url": "https://www.anthropic.com/news/the-anthropic-economic-index"
   },
   "the-anthropic-institute": {
@@ -2022,6 +2022,14 @@
     "title": "Claude's extended thinking",
     "updated": "2026-07-03T10:15:42.000Z",
     "url": "https://www.anthropic.com/news/visible-extended-thinking"
+  },
+  "wellbeing-research-grants": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&backgroundColor=heather",
+    "published": "2026-08-25T16:31:00.565913+00:00",
+    "summary": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "updated": "2026-08-25T16:20:57.000Z",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants"
   },
   "where-stand-department-war": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",

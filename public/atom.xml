@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-08-14T19:44:00.948060+00:00</updated>
+  <updated>2026-08-25T16:31:00.565913+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/wellbeing-research-grants</id>
+    <title>Funding better evaluations of AI’s impact on wellbeing</title>
+    <updated>2026-08-25T16:20:57+00:00</updated>
+    <content>Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.</content>
+    <link href="https://www.anthropic.com/news/wellbeing-research-grants"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&amp;backgroundColor=heather"/>
+    <summary>Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.</summary>
+    <published>2026-08-25T16:31:00.565913+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-text-watermark</id>
     <title>How Claude's text watermarking works</title>
@@ -94,7 +104,7 @@
   <entry>
     <id>https://www.anthropic.com/news/economic-futures-research-fund-agenda</id>
     <title>Supporting ambitious external research through the Anthropic Economic Futures Research Fund</title>
-    <updated>2026-07-24T18:46:48+00:00</updated>
+    <updated>2026-08-25T16:13:14+00:00</updated>
     <content>We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research.</content>
     <link href="https://www.anthropic.com/news/economic-futures-research-fund-agenda"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/303a79341c6210020de254eaabc259548d27ba58-1200x630.jpg"/>
@@ -104,7 +114,7 @@
   <entry>
     <id>https://www.anthropic.com/news/anthropic-economic-index-connector</id>
     <title>The Anthropic Economic Index connector</title>
-    <updated>2026-07-22T17:35:48+00:00</updated>
+    <updated>2026-08-25T16:13:14+00:00</updated>
     <content>We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly.</content>
     <link href="https://www.anthropic.com/news/anthropic-economic-index-connector"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral"/>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=heather"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-05-19T13:30:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/pwc-expanded-partnership</id>
-    <title>PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</title>
-    <updated>2026-05-15T17:32:36+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/pwc-expanded-partnership"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&amp;backgroundColor=sky"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-05-15T17:32:36+00:00</published>
   </entry>
 </feed>
