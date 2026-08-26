@@ -4,7 +4,7 @@
     "published": "2025-05-02T00:49:29.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Introducing 100K Context Windows",
-    "updated": "2025-05-02T00:49:29.000Z",
+    "updated": "2026-08-26T18:11:29.000Z",
     "url": "https://www.anthropic.com/news/100k-context-windows"
   },
   "3-5-models-and-computer-use": {
@@ -52,7 +52,7 @@
     "published": "2024-09-10T17:28:44.000Z",
     "summary": "Anthropic, AWS, and Accenture Team Up to Build Trusted Solutions for Enterprises",
     "title": "Accenture, AWS, Anthropic Collaboration",
-    "updated": "2024-09-10T17:28:44.000Z",
+    "updated": "2026-08-26T18:21:30.000Z",
     "url": "https://www.anthropic.com/news/accenture-aws-anthropic"
   },
   "acquires-vercept": {
@@ -316,7 +316,7 @@
     "published": "2024-08-05T19:55:40.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Anthropic Partners with Google Cloud",
-    "updated": "2024-08-05T19:55:40.000Z",
+    "updated": "2026-08-26T18:09:28.000Z",
     "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud"
   },
   "anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
@@ -516,7 +516,7 @@
     "published": "2024-12-19T18:52:16.000Z",
     "summary": "In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We hope this post is helpful for other companies trying to red team their AI systems, policymakers curious about how red teaming works in practice, and organizations that want to red team AI technology.",
     "title": "Challenges in Red Teaming AI Systems",
-    "updated": "2024-12-19T18:52:16.000Z",
+    "updated": "2026-08-26T18:24:13.000Z",
     "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
   },
   "charting-a-path-to-ai-accountability": {
@@ -1180,7 +1180,7 @@
     "published": "2024-12-19T19:01:12.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Frontier Model Security",
-    "updated": "2024-12-19T19:01:12.000Z",
+    "updated": "2026-08-26T18:14:32.000Z",
     "url": "https://www.anthropic.com/news/frontier-model-security"
   },
   "frontier-threats-red-teaming-for-ai-safety": {
@@ -1548,7 +1548,7 @@
     "published": "2025-07-23T18:04:25.000Z",
     "summary": "Learn about Anthropic's comprehensive framework for identifying, classifying, and mitigating potential harms from AI systems, ensuring responsible development of advanced AI technology.",
     "title": "Understanding and Addressing AI Harms",
-    "updated": "2025-07-23T18:04:25.000Z",
+    "updated": "2026-08-26T18:31:47.000Z",
     "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
   },
   "our-framework-for-developing-safe-and-trustworthy-agents": {
@@ -1804,7 +1804,7 @@
     "published": "2024-08-05T19:55:40.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "SKT Partnership Announcement",
-    "updated": "2024-08-05T19:55:40.000Z",
+    "updated": "2026-08-26T18:16:53.000Z",
     "url": "https://www.anthropic.com/news/skt-partnership-announcement"
   },
   "snowflake-anthropic-expanded-partnership": {
@@ -1996,7 +1996,7 @@
     "published": "2024-10-08T18:29:46.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "U.S. Elections Readiness",
-    "updated": "2024-10-08T18:29:46.000Z",
+    "updated": "2026-08-26T18:26:16.000Z",
     "url": "https://www.anthropic.com/news/us-elections-readiness"
   },
   "usage-policy-update": {
@@ -2052,7 +2052,7 @@
     "published": "2024-08-05T19:55:40.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Zoom Partnership and Investment in Anthropic",
-    "updated": "2024-08-05T19:55:40.000Z",
+    "updated": "2026-08-26T18:12:03.000Z",
     "url": "https://www.anthropic.com/news/zoom-partnership-and-investment"
   }
 }
