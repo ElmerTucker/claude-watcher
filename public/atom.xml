@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-08-25T16:31:00.565913+00:00</updated>
+  <updated>2026-08-27T23:30:46.725497+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,26 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/model-hardware-standard-research-preview</id>
+    <title>Previewing the Model Hardware Standard</title>
+    <updated>2026-08-27T17:53:45+00:00</updated>
+    <content>Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</content>
+    <link href="https://www.anthropic.com/news/model-hardware-standard-research-preview"/>
+    <link href="https://cdn.sanity.io/images/4zrzovbb/website/ebfc315e9854ada0b6bae009ffd9c63c41f9a5ab-1280x720.png"/>
+    <summary>Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</summary>
+    <published>2026-08-27T23:30:46.725497+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/expanding-support-for-scientists</id>
+    <title>Expanding our support for scientists</title>
+    <updated>2026-08-27T19:19:47+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/expanding-support-for-scientists"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&amp;backgroundColor=olive"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-08-27T23:30:46.052570+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/wellbeing-research-grants</id>
     <title>Funding better evaluations of AI’s impact on wellbeing</title>
@@ -154,7 +174,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-for-teachers</id>
     <title>Introducing Claude for Teachers</title>
-    <updated>2026-07-21T23:43:25+00:00</updated>
+    <updated>2026-08-27T15:07:49+00:00</updated>
     <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
     <link href="https://www.anthropic.com/news/claude-for-teachers"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
@@ -264,7 +284,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-science-ai-workbench</id>
     <title>Claude Science, an AI workbench for scientists</title>
-    <updated>2026-07-01T17:37:46+00:00</updated>
+    <updated>2026-08-27T15:08:16+00:00</updated>
     <content>Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</content>
     <link href="https://www.anthropic.com/news/claude-science-ai-workbench"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png"/>
@@ -294,7 +314,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-corps</id>
     <title>Introducing Claude Corps</title>
-    <updated>2026-06-26T12:32:44+00:00</updated>
+    <updated>2026-08-27T15:08:34+00:00</updated>
     <content>Anthropic is launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</content>
     <link href="https://www.anthropic.com/news/claude-corps"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg"/>
@@ -324,7 +344,7 @@
   <entry>
     <id>https://www.anthropic.com/news/gates-foundation-partnership</id>
     <title>Anthropic partners with the Gates Foundation</title>
-    <updated>2026-06-26T12:29:18+00:00</updated>
+    <updated>2026-08-27T15:08:52+00:00</updated>
     <content>Anthropic is partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years.</content>
     <link href="https://www.anthropic.com/news/gates-foundation-partnership"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=coral"/>
@@ -490,25 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky"/>
     <summary>KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office.</summary>
     <published>2026-05-26T23:11:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/anthropic-acquires-stainless</id>
-    <title>Anthropic acquires Stainless</title>
-    <updated>2026-05-19T18:06:44+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/anthropic-acquires-stainless"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-05-19T18:06:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/anthropic-kpmg</id>
-    <title>KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</title>
-    <updated>2026-05-19T13:30:59+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/anthropic-kpmg"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=heather"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-05-19T13:30:59+00:00</published>
   </entry>
 </feed>

@@ -13,7 +13,23 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 23:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <description>Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/ebfc315e9854ada0b6bae009ffd9c63c41f9a5ab-1280x720.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Aug 2026 23:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding our support for scientists</title>
+      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&amp;backgroundColor=olive" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Aug 2026 23:30:46 +0000</pubDate>
+    </item>
     <item>
       <title>Funding better evaluations of AI’s impact on wellbeing</title>
       <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
@@ -397,22 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 23:11:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic acquires Stainless</title>
-      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 18:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</title>
-      <link>https://www.anthropic.com/news/anthropic-kpmg</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-kpmg</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 13:30:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
