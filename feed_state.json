@@ -724,7 +724,7 @@
     "published": "2026-07-14T15:21:00.977761+00:00",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Introducing Claude for Teachers",
-    "updated": "2026-08-27T15:07:49.000Z",
+    "updated": "2026-08-28T15:01:10.000Z",
     "url": "https://www.anthropic.com/news/claude-for-teachers"
   },
   "claude-gov-models-for-u-s-national-security-customers": {
@@ -1140,7 +1140,7 @@
     "published": "2026-08-27T23:30:46.052570+00:00",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Expanding our support for scientists",
-    "updated": "2026-08-27T19:19:47.000Z",
+    "updated": "2026-08-28T10:42:34.000Z",
     "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
   },
   "fable-mythos-access": {
@@ -1492,7 +1492,7 @@
     "published": "2026-08-27T23:30:46.725497+00:00",
     "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
     "title": "Previewing the Model Hardware Standard",
-    "updated": "2026-08-28T02:15:31.000Z",
+    "updated": "2026-08-28T10:41:54.000Z",
     "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
   },
   "model-safety-bug-bounty": {
