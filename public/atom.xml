@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-08-27T23:30:46.725497+00:00</updated>
+  <updated>2026-09-01T01:34:06.989648+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/improving-alignment-security-efforts</id>
+    <title>Improving our alignment and security practices</title>
+    <updated>2026-08-31T22:39:50+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/improving-alignment-security-efforts"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=cactus"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-09-01T01:34:06.989648+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/model-hardware-standard-research-preview</id>
     <title>Previewing the Model Hardware Standard</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=fig"/>
     <summary>We're opening a new office in Milan, our sixth in Europe.</summary>
     <published>2026-05-28T13:00:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</id>
-    <title>Anthropic appoints KiYoung Choi as Representative Director of Korea</title>
-    <updated>2026-05-26T23:11:06+00:00</updated>
-    <content>KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office.</content>
-    <link href="https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky"/>
-    <summary>KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office.</summary>
-    <published>2026-05-26T23:11:06+00:00</published>
   </entry>
 </feed>
