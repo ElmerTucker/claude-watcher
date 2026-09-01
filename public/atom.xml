@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-09-01T01:34:06.989648+00:00</updated>
+  <updated>2026-09-01T20:26:40.332117+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/enterprise-frontier-safeguards</id>
+    <title>Developing Enterprise Frontier Safeguards with our customers</title>
+    <updated>2026-09-01T19:11:41+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/enterprise-frontier-safeguards"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=sky"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-09-01T20:26:40.332117+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/improving-alignment-security-efforts</id>
     <title>Improving our alignment and security practices</title>
@@ -54,7 +64,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-text-watermark</id>
     <title>How Claude's text watermarking works</title>
-    <updated>2026-08-24T15:41:58+00:00</updated>
+    <updated>2026-09-01T18:01:14+00:00</updated>
     <content>Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</content>
     <link href="https://www.anthropic.com/news/claude-text-watermark"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather"/>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus"/>
     <summary>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</summary>
     <published>2026-05-28T19:33:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/milan-office-opening</id>
-    <title>Anthropic opens Milan office to support Italian enterprise, research, and developers</title>
-    <updated>2026-05-28T13:00:32+00:00</updated>
-    <content>We're opening a new office in Milan, our sixth in Europe.</content>
-    <link href="https://www.anthropic.com/news/milan-office-opening"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=fig"/>
-    <summary>We're opening a new office in Milan, our sixth in Europe.</summary>
-    <published>2026-05-28T13:00:32+00:00</published>
   </entry>
 </feed>

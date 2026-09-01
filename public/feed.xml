@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:26:40 +0000</lastBuildDate>
+    <item>
+      <title>Developing Enterprise Frontier Safeguards with our customers</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 20:26:40 +0000</pubDate>
+    </item>
     <item>
       <title>Improving our alignment and security practices</title>
       <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
       <pubDate>Thu, 28 May 2026 19:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic opens Milan office to support Italian enterprise, research, and developers</title>
-      <link>https://www.anthropic.com/news/milan-office-opening</link>
-      <description>We're opening a new office in Milan, our sixth in Europe.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/milan-office-opening</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=fig" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -884,7 +884,7 @@
     "published": "2026-08-14T19:44:00.948060+00:00",
     "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
     "title": "How Claude's text watermarking works",
-    "updated": "2026-08-24T15:41:58.000Z",
+    "updated": "2026-09-01T18:01:14.000Z",
     "url": "https://www.anthropic.com/news/claude-text-watermark"
   },
   "claudes-constitution": {
@@ -1086,6 +1086,14 @@
     "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
     "updated": "2026-05-04T15:43:58.000Z",
     "url": "https://www.anthropic.com/news/enterprise-ai-services-company"
+  },
+  "enterprise-frontier-safeguards": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&backgroundColor=sky",
+    "published": "2026-09-01T20:26:40.332117+00:00",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "updated": "2026-09-01T19:11:41.000Z",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
   },
   "eu-code-practice": {
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
