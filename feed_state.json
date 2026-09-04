@@ -1404,7 +1404,7 @@
     "published": "2026-07-31T02:23:32.882031+00:00",
     "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "updated": "2026-08-03T14:36:32.000Z",
+    "updated": "2026-09-04T03:24:16.000Z",
     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
   },
   "investing-in-energy-to-secure-america-s-ai-future": {
