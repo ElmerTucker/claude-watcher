@@ -20,7 +20,7 @@
     "published": "2026-06-03T16:18:23.000Z",
     "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.",
     "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-    "updated": "2026-06-03T16:18:23.000Z",
+    "updated": "2026-09-08T10:47:50.000Z",
     "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
   },
   "Introducing-code-with-claude": {
@@ -964,7 +964,7 @@
     "published": "2025-08-21T21:06:42.000Z",
     "summary": "Detecting and Countering Malicious Uses of Claude",
     "title": "Detecting and Countering Malicious Uses of Claude",
-    "updated": "2026-08-26T20:47:13.000Z",
+    "updated": "2026-09-08T10:47:28.000Z",
     "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"
   },
   "detecting-and-preventing-distillation-attacks": {
@@ -972,7 +972,7 @@
     "published": "2026-02-23T19:24:39.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Detecting and preventing distillation attacks",
-    "updated": "2026-02-23T19:24:39.000Z",
+    "updated": "2026-09-08T10:48:11.000Z",
     "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks"
   },
   "detecting-countering-misuse-aug-2025": {
@@ -980,7 +980,7 @@
     "published": "2025-08-27T10:11:24.000Z",
     "summary": "Anthropic's threat intelligence report on AI cybercrime and other abuses",
     "title": "Detecting and countering misuse of AI: August 2025",
-    "updated": "2025-08-27T10:11:24.000Z",
+    "updated": "2026-09-08T10:46:50.000Z",
     "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"
   },
   "developing-computer-use": {
@@ -1004,7 +1004,7 @@
     "published": "2025-11-14T11:25:56.000Z",
     "summary": "A report describing an a highly sophisticated AI-led cyberattack",
     "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
-    "updated": "2025-11-14T11:25:56.000Z",
+    "updated": "2026-09-08T10:47:10.000Z",
     "url": "https://www.anthropic.com/news/disrupting-AI-espionage"
   },
   "donate-public-first-action": {
