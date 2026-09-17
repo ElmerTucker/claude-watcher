@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:44:53 +0000</lastBuildDate>
+    <item>
+      <title>Introducing the Life Sciences Verification Program</title>
+      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 18:44:53 +0000</pubDate>
+    </item>
     <item>
       <title>Developing Enterprise Frontier Safeguards with our customers</title>
       <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
       <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Jun 2026 10:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Design by Anthropic Labs</title>
-      <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
-      <description>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 19:33:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
