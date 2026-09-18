@@ -55,6 +55,14 @@
     "updated": "2026-08-26T18:21:30.000Z",
     "url": "https://www.anthropic.com/news/accenture-aws-anthropic"
   },
+  "accenture-embedded-evaluation": {
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-09-18T22:12:40.387453+00:00",
+    "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "updated": "2026-09-18T20:02:00.000Z",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+  },
   "acquires-vercept": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&backgroundColor=coral",
     "published": "2026-02-25T16:58:30.000Z",
