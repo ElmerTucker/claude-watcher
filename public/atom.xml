@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-09-18T22:12:40.387453+00:00</updated>
+  <updated>2026-09-23T18:11:27.283740+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</id>
+    <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
+    <updated>2026-09-23T18:00:53+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-09-23T18:11:27.283740+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/accenture-embedded-evaluation</id>
     <title>Partnering with Accenture on embedded evaluation</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
     <summary>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</summary>
     <published>2026-06-01T15:59:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/series-h</id>
-    <title>Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
-    <updated>2026-09-09T15:41:56+00:00</updated>
-    <content>Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</content>
-    <link href="https://www.anthropic.com/news/series-h"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=coral"/>
-    <summary>Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</summary>
-    <published>2026-06-01T15:29:46+00:00</published>
   </entry>
 </feed>
