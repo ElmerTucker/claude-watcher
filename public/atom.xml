@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-09-23T18:11:27.283740+00:00</updated>
+  <updated>2026-10-01T08:12:57.294795+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/barclays-scales-claude</id>
+    <title>Barclays scales Claude to upgrade operations and improve client experience</title>
+    <updated>2026-10-01T08:00:59+00:00</updated>
+    <content>Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.</content>
+    <link href="https://www.anthropic.com/news/barclays-scales-claude"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.</summary>
+    <published>2026-10-01T08:12:57.294795+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</id>
     <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg"/>
     <summary>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries</summary>
     <published>2026-06-02T14:03:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/confidential-draft-s1-sec</id>
-    <title>Anthropic confidentially submits draft S-1 to the SEC</title>
-    <updated>2026-09-09T15:40:39+00:00</updated>
-    <content>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</content>
-    <link href="https://www.anthropic.com/news/confidential-draft-s1-sec"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
-    <summary>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</summary>
-    <published>2026-06-01T15:59:13+00:00</published>
   </entry>
 </feed>
