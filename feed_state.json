@@ -751,6 +751,14 @@
     "updated": "2026-09-09T15:14:47.000Z",
     "url": "https://www.anthropic.com/news/claude-for-teachers"
   },
+  "claude-frontier-academy": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&backgroundColor=heather",
+    "published": "2026-10-02T18:55:32.234306+00:00",
+    "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+    "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+    "updated": "2026-10-02T17:12:50.000Z",
+    "url": "https://www.anthropic.com/news/claude-frontier-academy"
+  },
   "claude-gov-models-for-u-s-national-security-customers": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
     "published": "2025-07-30T22:58:04.000Z",

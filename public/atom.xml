@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-01T08:12:57.294795+00:00</updated>
+  <updated>2026-10-02T18:55:32.234306+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-frontier-academy</id>
+    <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
+    <updated>2026-10-02T17:12:50+00:00</updated>
+    <content>Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.</content>
+    <link href="https://www.anthropic.com/news/claude-frontier-academy"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather"/>
+    <summary>Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.</summary>
+    <published>2026-10-02T18:55:32.234306+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/barclays-scales-claude</id>
     <title>Barclays scales Claude to upgrade operations and improve client experience</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig"/>
     <summary>In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate.</summary>
     <published>2026-06-03T15:30:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/expanding-project-glasswing</id>
-    <title>Expanding Project Glasswing</title>
-    <updated>2026-09-09T15:40:03+00:00</updated>
-    <content>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries</content>
-    <link href="https://www.anthropic.com/news/expanding-project-glasswing"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg"/>
-    <summary>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries</summary>
-    <published>2026-06-02T14:03:15+00:00</published>
   </entry>
 </feed>
