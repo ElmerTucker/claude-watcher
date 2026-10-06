@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-02T18:55:32.234306+00:00</updated>
+  <updated>2026-10-06T22:13:00.257774+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/cyber-verification-program</id>
+    <title>Expanding the Cyber Verification Program</title>
+    <updated>2026-10-06T19:39:32+00:00</updated>
+    <content>We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</content>
+    <link href="https://www.anthropic.com/news/cyber-verification-program"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather"/>
+    <summary>We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</summary>
+    <published>2026-10-06T22:13:00.257774+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-frontier-academy</id>
     <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=cactus"/>
     <summary>As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.</summary>
     <published>2026-06-03T16:18:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/services-track-partner-hub</id>
-    <title>Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
-    <updated>2026-09-09T15:38:37+00:00</updated>
-    <content>In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate.</content>
-    <link href="https://www.anthropic.com/news/services-track-partner-hub"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig"/>
-    <summary>In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate.</summary>
-    <published>2026-06-03T15:30:11+00:00</published>
   </entry>
 </feed>
