@@ -13,7 +13,23 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:07:59 +0000</lastBuildDate>
+    <item>
+      <title>Building on our commitment to American scientific discovery</title>
+      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+      <description>Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
+      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 17:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 Usage Policy update</title>
+      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+      <description>We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 17:07:58 +0000</pubDate>
+    </item>
     <item>
       <title>Expanding the Cyber Verification Program</title>
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
@@ -397,22 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
       <pubDate>Fri, 05 Jun 2026 14:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Widening the conversation on frontier AI</title>
-      <link>https://www.anthropic.com/news/widening-conversation-ai</link>
-      <description>Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/widening-conversation-ai</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&amp;backgroundColor=sky" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 05 Jun 2026 14:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
-      <link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
-      <description>As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 16:18:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

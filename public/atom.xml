@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-06T22:13:00.257774+00:00</updated>
+  <updated>2026-10-08T17:07:59.064931+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,26 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/genesis-mission-commitment</id>
+    <title>Building on our commitment to American scientific discovery</title>
+    <updated>2026-10-08T15:49:10+00:00</updated>
+    <content>Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.</content>
+    <link href="https://www.anthropic.com/news/genesis-mission-commitment"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=heather"/>
+    <summary>Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.</summary>
+    <published>2026-10-08T17:07:59.064931+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/2026-usage-policy-update</id>
+    <title>2026 Usage Policy update</title>
+    <updated>2026-10-08T17:00:30+00:00</updated>
+    <content>We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.</content>
+    <link href="https://www.anthropic.com/news/2026-usage-policy-update"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.</summary>
+    <published>2026-10-08T17:07:58.387864+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/cyber-verification-program</id>
     <title>Expanding the Cyber Verification Program</title>
@@ -490,25 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather"/>
     <summary>The full text of Chris Olah's remarks on the Pope's encyclical on AI.</summary>
     <published>2026-06-05T14:58:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/widening-conversation-ai</id>
-    <title>Widening the conversation on frontier AI</title>
-    <updated>2026-06-05T14:40:24+00:00</updated>
-    <content>Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.</content>
-    <link href="https://www.anthropic.com/news/widening-conversation-ai"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&amp;backgroundColor=sky"/>
-    <summary>Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.</summary>
-    <published>2026-06-05T14:40:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</id>
-    <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
-    <updated>2026-09-10T16:29:36+00:00</updated>
-    <content>As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.</content>
-    <link href="https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=cactus"/>
-    <summary>As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.</summary>
-    <published>2026-06-03T16:18:23+00:00</published>
   </entry>
 </feed>

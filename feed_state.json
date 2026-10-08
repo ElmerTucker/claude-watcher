@@ -7,6 +7,14 @@
     "updated": "2026-09-09T19:42:51.000Z",
     "url": "https://www.anthropic.com/news/100k-context-windows"
   },
+  "2026-usage-policy-update": {
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "published": "2026-10-08T17:07:58.387864+00:00",
+    "summary": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+    "title": "2026 Usage Policy update",
+    "updated": "2026-10-08T17:00:30.000Z",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+  },
   "3-5-models-and-computer-use": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCursor&backgroundColor=clay",
     "published": "2025-07-23T18:02:00.000Z",
@@ -1254,6 +1262,14 @@
     "title": "Anthropic partners with the Gates Foundation",
     "updated": "2026-09-09T15:48:49.000Z",
     "url": "https://www.anthropic.com/news/gates-foundation-partnership"
+  },
+  "genesis-mission-commitment": {
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&backgroundColor=heather",
+    "published": "2026-10-08T17:07:59.064931+00:00",
+    "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+    "title": "Building on our commitment to American scientific discovery",
+    "updated": "2026-10-08T15:49:10.000Z",
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment"
   },
   "genesis-mission-partnership": {
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Telescope&backgroundColor=fig",
