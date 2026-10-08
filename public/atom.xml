@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-08T17:07:59.064931+00:00</updated>
+  <updated>2026-10-08T22:46:40.537689+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-cyber-mission</id>
+    <title>Introducing the Anthropic Cyber Mission</title>
+    <updated>2026-10-08T19:00:45+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/anthropic-cyber-mission"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-10-08T22:46:40.537689+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/genesis-mission-commitment</id>
     <title>Building on our commitment to American scientific discovery</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather"/>
     <summary>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</summary>
     <published>2026-06-12T16:24:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</id>
-    <title>Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</title>
-    <updated>2026-09-09T15:44:31+00:00</updated>
-    <content>The full text of Chris Olah's remarks on the Pope's encyclical on AI.</content>
-    <link href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather"/>
-    <summary>The full text of Chris Olah's remarks on the Pope's encyclical on AI.</summary>
-    <published>2026-06-05T14:58:47+00:00</published>
   </entry>
 </feed>

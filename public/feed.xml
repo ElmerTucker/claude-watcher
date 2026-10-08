@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:46:40 +0000</lastBuildDate>
+    <item>
+      <title>Introducing the Anthropic Cyber Mission</title>
+      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 22:46:40 +0000</pubDate>
+    </item>
     <item>
       <title>Building on our commitment to American scientific discovery</title>
       <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Jun 2026 16:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</title>
-      <link>https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</link>
-      <description>The full text of Chris Olah's remarks on the Pope's encyclical on AI.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 05 Jun 2026 14:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
