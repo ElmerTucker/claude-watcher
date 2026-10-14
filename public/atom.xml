@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-08T22:46:40.537689+00:00</updated>
+  <updated>2026-10-14T11:02:49.919538+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/singapore-office-opening</id>
+    <title>Singapore office and government MOU | Anthropic</title>
+    <updated>2026-10-14T08:31:43+00:00</updated>
+    <content>Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.</content>
+    <link href="https://www.anthropic.com/news/singapore-office-opening"/>
+    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=olive"/>
+    <summary>Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.</summary>
+    <published>2026-10-14T11:02:49.919538+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-cyber-mission</id>
     <title>Introducing the Anthropic Cyber Mission</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png"/>
     <summary>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</summary>
     <published>2026-06-13T01:13:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/anthropic-public-record</id>
-    <title>Results from first Anthropic Public Record</title>
-    <updated>2026-06-12T16:24:44+00:00</updated>
-    <content>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</content>
-    <link href="https://www.anthropic.com/news/anthropic-public-record"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather"/>
-    <summary>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</summary>
-    <published>2026-06-12T16:24:44+00:00</published>
   </entry>
 </feed>
