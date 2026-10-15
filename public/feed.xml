@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:58:04 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic update on independent evaluators</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <description>Anthropic announces updates to embedding independent evaluators</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6f3b6a11013128a8d7d8edc627ce758917b4e33d-2000x1125.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 15 Oct 2026 17:58:04 +0000</pubDate>
+    </item>
     <item>
       <title>Preparing for the 2026 US midterms</title>
       <link>https://www.anthropic.com/news/2026-us-midterms</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
       <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Jun 2026 12:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Developing nuclear safeguards for AI through public-private partnership</title>
-      <link>https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</link>
-      <description>Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an AI system that automatically categorizes content—that distinguishes between concerning and benign nuclear-related conversations with 96% accuracy in preliminary testing.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeTree&amp;backgroundColor=olive" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Jun 2026 16:48:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
