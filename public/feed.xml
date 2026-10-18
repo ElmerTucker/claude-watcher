@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:59:25 +0000</lastBuildDate>
+    <item>
+      <title>Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 18 Oct 2026 19:59:25 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic update on independent evaluators</title>
       <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Jun 2026 12:27:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Tag</title>
-      <link>https://www.anthropic.com/news/introducing-claude-tag</link>
-      <description>Claude Tag is a new way for teams to work with Claude.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
-      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 12:23:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

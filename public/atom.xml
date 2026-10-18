@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-15T17:58:04.956134+00:00</updated>
+  <updated>2026-10-18T19:59:25.349391+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/public-benefit-fund</id>
+    <title>Investing in the public benefit</title>
+    <updated>2026-10-18T18:05:05+00:00</updated>
+    <content>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</content>
+    <link href="https://www.anthropic.com/news/public-benefit-fund"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg"/>
+    <summary>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</summary>
+    <published>2026-10-18T19:59:25.349391+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/an-update-on-independent-evaluators</id>
     <title>Anthropic update on independent evaluators</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather"/>
     <summary>Anthropic opens in Seoul and announces new partnerships across the Korean AI ecosystem.</summary>
     <published>2026-06-26T12:27:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/introducing-claude-tag</id>
-    <title>Introducing Claude Tag</title>
-    <updated>2026-07-15T22:12:10+00:00</updated>
-    <content>Claude Tag is a new way for teams to work with Claude.</content>
-    <link href="https://www.anthropic.com/news/introducing-claude-tag"/>
-    <link href="https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg"/>
-    <summary>Claude Tag is a new way for teams to work with Claude.</summary>
-    <published>2026-06-26T12:23:43+00:00</published>
   </entry>
 </feed>
