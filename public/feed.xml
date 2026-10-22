@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 20:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:50:14 +0000</lastBuildDate>
+    <item>
+      <title>Open call for guest investigators in the life sciences</title>
+      <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
+      <description>Today, we’re inviting members of the life sciences community to apply to work with us on special projects.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</guid>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 22 Oct 2026 23:50:14 +0000</pubDate>
+    </item>
     <item>
       <title>Donating Agent Skills to the Agentic AI Foundation</title>
       <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/canadian-ai-research</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 13:23:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>UST is bringing Claude to physical AI</title>
-      <link>https://www.anthropic.com/news/ust-claude</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 04:46:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

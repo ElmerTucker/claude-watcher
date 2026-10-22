@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-22T20:22:58.741198+00:00</updated>
+  <updated>2026-10-22T23:50:14.491695+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</id>
+    <title>Open call for guest investigators in the life sciences</title>
+    <updated>2026-10-22T21:59:15+00:00</updated>
+    <content>Today, we’re inviting members of the life sciences community to apply to work with us on special projects.</content>
+    <link href="https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg"/>
+    <summary>Today, we’re inviting members of the life sciences community to apply to work with us on special projects.</summary>
+    <published>2026-10-22T23:50:14.491695+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</id>
     <title>Donating Agent Skills to the Agentic AI Foundation</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus"/>
     <summary>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</summary>
     <published>2026-07-14T13:23:56.164057+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/ust-claude</id>
-    <title>UST is bringing Claude to physical AI</title>
-    <updated>2026-10-14T17:39:35+00:00</updated>
-    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
-    <link href="https://www.anthropic.com/news/ust-claude"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral"/>
-    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
-    <published>2026-07-10T04:46:10.805090+00:00</published>
   </entry>
 </feed>
