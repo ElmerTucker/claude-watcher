@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-22T23:50:14.491695+00:00</updated>
+  <updated>2026-10-26T15:46:16.495432+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/s1-sec</id>
+    <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
+    <updated>2026-10-26T15:04:18+00:00</updated>
+    <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
+    <link href="https://www.anthropic.com/news/s1-sec"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
+    <published>2026-10-26T15:46:16.495432+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</id>
     <title>Open call for guest investigators in the life sciences</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
     <summary>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</summary>
     <published>2026-07-14T15:21:00.977761+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/canadian-ai-research</id>
-    <title>Anthropic commits $10 million to Canadian AI research</title>
-    <updated>2026-10-14T05:17:50+00:00</updated>
-    <content>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</content>
-    <link href="https://www.anthropic.com/news/canadian-ai-research"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus"/>
-    <summary>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</summary>
-    <published>2026-07-14T13:23:56.164057+00:00</published>
   </entry>
 </feed>
