@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:03:57 +0000</lastBuildDate>
+    <item>
+      <title>AI for Science expands to foundations and institutions</title>
+      <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
+      <description>We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Oct 2026 04:03:57 +0000</pubDate>
+    </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
       <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/skills</guid>
       <enclosure url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6902681b6935a6f61e64165c_og_introducing-agent-skills.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 02:10:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
-      <link>https://www.anthropic.com/news/rare-disease-research-grants</link>
-      <description>Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/rare-disease-research-grants</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeShield&amp;backgroundColor=heather" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:56:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

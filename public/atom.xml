@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-28T00:55:18.069768+00:00</updated>
+  <updated>2026-10-29T04:03:57.061621+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</id>
+    <title>AI for Science expands to foundations and institutions</title>
+    <updated>2026-10-28T23:59:00+00:00</updated>
+    <content>We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.</content>
+    <link href="https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg"/>
+    <summary>We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.</summary>
+    <published>2026-10-29T04:03:57.061621+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/expanding-partnership-gsa</id>
     <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -500,15 +510,5 @@
     <link href="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6902681b6935a6f61e64165c_og_introducing-agent-skills.jpg"/>
     <summary>Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.</summary>
     <published>2026-07-22T02:10:21.324146+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/rare-disease-research-grants</id>
-    <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
-    <updated>2026-10-14T05:19:07+00:00</updated>
-    <content>Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.</content>
-    <link href="https://www.anthropic.com/news/rare-disease-research-grants"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeShield&amp;backgroundColor=heather"/>
-    <summary>Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.</summary>
-    <published>2026-07-20T17:56:48.475658+00:00</published>
   </entry>
 </feed>
