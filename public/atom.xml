@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-10-29T04:03:57.061621+00:00</updated>
+  <updated>2026-11-10T18:25:54.811016+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/roadshow-launch</id>
+    <title>Anthropic launches roadshow for proposed initial public offering</title>
+    <updated>2026-11-10T11:32:16+00:00</updated>
+    <content>Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.</content>
+    <link href="https://www.anthropic.com/news/roadshow-launch"/>
+    <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
+    <summary>Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.</summary>
+    <published>2026-11-10T18:25:54.811016+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</id>
     <title>AI for Science expands to foundations and institutions</title>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat"/>
     <summary>Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million.</summary>
     <published>2026-07-22T11:04:56.093020+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/skills</id>
-    <title>Introducing Agent Skills | Claude by Anthropic</title>
-    <updated>2026-09-29T21:51:43+00:00</updated>
-    <content>Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.</content>
-    <link href="https://www.anthropic.com/news/skills"/>
-    <link href="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6902681b6935a6f61e64165c_og_introducing-agent-skills.jpg"/>
-    <summary>Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.</summary>
-    <published>2026-07-22T02:10:21.324146+00:00</published>
   </entry>
 </feed>
