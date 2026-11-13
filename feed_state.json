@@ -12,7 +12,7 @@
     "published": "2026-10-14T20:23:43.431633+00:00",
     "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
     "title": "Preparing for the 2026 US midterms",
-    "updated": "2026-10-17T05:44:51.000Z",
+    "updated": "2026-11-13T17:02:43.448Z",
     "url": "https://www.anthropic.com/news/2026-us-midterms"
   },
   "2026-usage-policy-update": {
@@ -676,7 +676,7 @@
     "published": "2024-12-19T19:00:30.000Z",
     "summary": "Today, we're announcing the Claude 3 model family, which sets new industry benchmarks across a wide range of cognitive tasks. The family includes three state-of-the-art models in ascending order of capability: Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus.",
     "title": "Introducing the next generation of Claude",
-    "updated": "2026-10-15T06:17:22.000Z",
+    "updated": "2026-11-13T17:02:43.449Z",
     "url": "https://www.anthropic.com/news/claude-3-family"
   },
   "claude-3-haiku": {
@@ -708,7 +708,7 @@
     "published": "2024-12-19T18:53:01.000Z",
     "summary": "Claude, Anthropic’s trusted AI assistant, is now available in Brazil. Starting today, consumers and businesses in Brazil will be able to access Claude.",
     "title": "Claude is now available in Brazil",
-    "updated": "2026-10-14T16:21:31.000Z",
+    "updated": "2026-11-13T17:02:43.436Z",
     "url": "https://www.anthropic.com/news/claude-brazil"
   },
   "claude-code-on-team-and-enterprise": {
@@ -756,7 +756,7 @@
     "published": "2024-09-10T17:28:44.000Z",
     "summary": "We’re excited to announce that Claude, Anthropic’s trusted AI assistant, is now available for people and businesses across Europe to enhance their productivity and creativity.",
     "title": "Claude is now available in the EU",
-    "updated": "2026-10-15T06:19:48.000Z",
+    "updated": "2026-11-13T17:02:43.435Z",
     "url": "https://www.anthropic.com/news/claude-europe"
   },
   "claude-fable-5-mythos-5": {
@@ -764,7 +764,7 @@
     "published": "2026-07-01T19:34:43.000Z",
     "summary": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
     "title": "Claude Fable 5 and Claude Mythos 5",
-    "updated": "2026-10-14T16:12:47.000Z",
+    "updated": "2026-11-13T17:02:43.424Z",
     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
   },
   "claude-for-creative-work": {
@@ -820,7 +820,7 @@
     "published": "2026-07-14T15:21:00.977761+00:00",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Introducing Claude for Teachers",
-    "updated": "2026-10-14T04:57:19.000Z",
+    "updated": "2026-11-13T12:49:52.549Z",
     "url": "https://www.anthropic.com/news/claude-for-teachers"
   },
   "claude-frontier-academy": {
@@ -884,7 +884,7 @@
     "published": "2026-01-21T16:34:47.000Z",
     "summary": "A new approach to a foundational document that expresses and shapes who Claude is",
     "title": "Claude's new constitution",
-    "updated": "2026-10-14T16:48:19.000Z",
+    "updated": "2026-11-13T17:02:43.436Z",
     "url": "https://www.anthropic.com/news/claude-new-constitution"
   },
   "claude-opus-4-1": {
@@ -988,7 +988,7 @@
     "published": "2026-08-14T19:44:00.948060+00:00",
     "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
     "title": "How Claude's text watermarking works",
-    "updated": "2026-10-14T04:53:09.000Z",
+    "updated": "2026-11-13T18:29:31.569Z",
     "url": "https://www.anthropic.com/news/claude-text-watermark"
   },
   "claudes-constitution": {
@@ -1092,7 +1092,7 @@
     "published": "2025-08-21T21:06:42.000Z",
     "summary": "Detecting and Countering Malicious Uses of Claude",
     "title": "Detecting and Countering Malicious Uses of Claude",
-    "updated": "2026-10-15T05:58:18.000Z",
+    "updated": "2026-11-13T17:02:43.437Z",
     "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"
   },
   "detecting-and-preventing-distillation-attacks": {
@@ -1204,7 +1204,7 @@
     "published": "2026-04-28T08:59:45.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "An update on our election safeguards",
-    "updated": "2026-10-15T00:01:04.000Z",
+    "updated": "2026-11-13T17:02:43.418Z",
     "url": "https://www.anthropic.com/news/election-safeguards-update"
   },
   "elections-ai-2024": {
@@ -1500,7 +1500,7 @@
     "published": "2026-08-07T03:46:47.466623+00:00",
     "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
     "title": "Improving Fable 5 Safeguards",
-    "updated": "2026-10-14T22:30:35.000Z",
+    "updated": "2026-11-13T17:02:43.433Z",
     "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
   },
   "introducing-anthropic-labs": {
@@ -1964,7 +1964,7 @@
     "published": "2024-09-10T17:28:44.000Z",
     "summary": "Last summer we published our first Responsible Scaling Policy (RSP), which focuses on addressing catastrophic safety failures and misuse of frontier models. In adopting this policy, our primary goal is to help turn high-level safety concepts into practical guidelines for fast-moving technical organizations and demonstrate their viability as possible standards. As we operationalize the policy, we expect to learn a great deal and plan to share our findings. This post shares reflections from implementing the policy so far.",
     "title": "Reflections on our Responsible Scaling Policy",
-    "updated": "2026-10-14T17:31:36.000Z",
+    "updated": "2026-11-13T17:02:43.432Z",
     "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"
   },
   "releasing-claude-instant-1-2": {
@@ -2124,7 +2124,7 @@
     "published": "2026-02-28T01:31:43.000Z",
     "summary": "Anthropic's response to the Secretary of War and advice for customers",
     "title": "Statement on the comments from Secretary of War Pete Hegseth",
-    "updated": "2026-10-14T16:31:34.000Z",
+    "updated": "2026-11-13T17:02:43.421Z",
     "url": "https://www.anthropic.com/news/statement-comments-secretary-war"
   },
   "statement-dario-amodei-american-ai-leadership": {

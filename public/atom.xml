@@ -244,7 +244,7 @@
   <entry>
     <id>https://www.anthropic.com/news/2026-us-midterms</id>
     <title>Preparing for the 2026 US midterms</title>
-    <updated>2026-10-17T05:44:51+00:00</updated>
+    <updated>2026-11-13T17:02:43.448000+00:00</updated>
     <content>Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.</content>
     <link href="https://www.anthropic.com/news/2026-us-midterms"/>
     <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/4de18fb9523480ac8492ed4c2484933ba3e7c1bd-1200x630.jpg"/>
@@ -404,7 +404,7 @@
   <entry>
     <id>https://www.anthropic.com/news/claude-text-watermark</id>
     <title>How Claude's text watermarking works</title>
-    <updated>2026-10-14T04:53:09+00:00</updated>
+    <updated>2026-11-13T18:29:31.569000+00:00</updated>
     <content>Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</content>
     <link href="https://www.anthropic.com/news/claude-text-watermark"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather"/>
@@ -414,7 +414,7 @@
   <entry>
     <id>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</id>
     <title>Improving Fable 5 Safeguards</title>
-    <updated>2026-10-14T22:30:35+00:00</updated>
+    <updated>2026-11-13T17:02:43.433000+00:00</updated>
     <content>We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.</content>
     <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&amp;backgroundColor=heather"/>
