@@ -184,7 +184,7 @@
   <entry>
     <id>https://www.anthropic.com/news/deprecation-commitments</id>
     <title>Commitments on model deprecation and preservation</title>
-    <updated>2026-09-28T03:21:36+00:00</updated>
+    <updated>2026-11-13T22:37:05.607000+00:00</updated>
     <content>Anthropic commits to preserving the weights of all publicly released Claude models and interviewing retiring models about their preferences.</content>
     <link href="https://www.anthropic.com/news/deprecation-commitments"/>
     <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/f8121c10b1392d40d2c96e51a6d3b08cb42cf429-2000x1125.png"/>
@@ -194,7 +194,7 @@
   <entry>
     <id>https://www.anthropic.com/news/anthropic-institute-agenda</id>
     <title>Focus areas for The Anthropic Institute</title>
-    <updated>2026-10-14T18:07:49+00:00</updated>
+    <updated>2026-11-13T22:37:05.584000+00:00</updated>
     <content>The Anthropic Institute investigates AI's impact on the world from within a frontier lab. Here are the questions driving its agenda.</content>
     <link href="https://www.anthropic.com/news/anthropic-institute-agenda"/>
     <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/9c201feeadac8c840209b710b3438aa6684d0417-1200x630.jpg"/>
@@ -234,7 +234,7 @@
   <entry>
     <id>https://www.anthropic.com/news/an-update-on-independent-evaluators</id>
     <title>Anthropic update on independent evaluators</title>
-    <updated>2026-10-20T03:29:34+00:00</updated>
+    <updated>2026-11-13T22:37:05.627000+00:00</updated>
     <content>Anthropic announces updates to embedding independent evaluators</content>
     <link href="https://www.anthropic.com/news/an-update-on-independent-evaluators"/>
     <link href="https://www-cdn.anthropic.com/images/4zrzovbb/website/6f3b6a11013128a8d7d8edc627ce758917b4e33d-2000x1125.jpg"/>
@@ -334,7 +334,7 @@
   <entry>
     <id>https://www.anthropic.com/news/accenture-embedded-evaluation</id>
     <title>Partnering with Accenture on embedded evaluation</title>
-    <updated>2026-10-19T23:06:20+00:00</updated>
+    <updated>2026-11-13T22:37:05.618000+00:00</updated>
     <content>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</content>
     <link href="https://www.anthropic.com/news/accenture-embedded-evaluation"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"/>
@@ -364,7 +364,7 @@
   <entry>
     <id>https://www.anthropic.com/news/improving-alignment-security-efforts</id>
     <title>Improving our alignment and security practices</title>
-    <updated>2026-10-14T04:47:34+00:00</updated>
+    <updated>2026-11-13T22:37:05.594000+00:00</updated>
     <content>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</content>
     <link href="https://www.anthropic.com/news/improving-alignment-security-efforts"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=cactus"/>
@@ -394,7 +394,7 @@
   <entry>
     <id>https://www.anthropic.com/news/wellbeing-research-grants</id>
     <title>Funding better evaluations of AI’s impact on wellbeing</title>
-    <updated>2026-10-14T05:08:36+00:00</updated>
+    <updated>2026-11-13T22:37:05.598000+00:00</updated>
     <content>Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.</content>
     <link href="https://www.anthropic.com/news/wellbeing-research-grants"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&amp;backgroundColor=heather"/>
@@ -414,7 +414,7 @@
   <entry>
     <id>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</id>
     <title>Improving Fable 5 Safeguards</title>
-    <updated>2026-11-13T17:02:43.433000+00:00</updated>
+    <updated>2026-11-13T22:37:05.617000+00:00</updated>
     <content>We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.</content>
     <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&amp;backgroundColor=heather"/>
@@ -434,7 +434,7 @@
   <entry>
     <id>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</id>
     <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
-    <updated>2026-10-14T04:49:06+00:00</updated>
+    <updated>2026-11-13T22:37:05.585000+00:00</updated>
     <content>In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.</content>
     <link href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather"/>
@@ -484,7 +484,7 @@
   <entry>
     <id>https://www.anthropic.com/news/economic-futures-research-fund-agenda</id>
     <title>Supporting ambitious external research through the Anthropic Economic Futures Research Fund</title>
-    <updated>2026-10-14T05:11:00+00:00</updated>
+    <updated>2026-11-13T22:37:05.603000+00:00</updated>
     <content>We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research.</content>
     <link href="https://www.anthropic.com/news/economic-futures-research-fund-agenda"/>
     <link href="https://cdn.sanity.io/images/4zrzovbb/website/303a79341c6210020de254eaabc259548d27ba58-1200x630.jpg"/>

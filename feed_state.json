@@ -60,7 +60,7 @@
     "published": "2024-09-10T17:28:44.000Z",
     "summary": "A robust, third-party evaluation ecosystem is essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations (evals) remains challenging, and the demand is outpacing the supply. To address this, today we're introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models.",
     "title": "A new initiative for developing third-party model evaluations",
-    "updated": "2026-10-14T17:32:38.000Z",
+    "updated": "2026-11-13T22:37:05.626Z",
     "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
   },
   "accelerating-scientific-research": {
@@ -84,7 +84,7 @@
     "published": "2026-09-18T22:12:40.387453+00:00",
     "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
     "title": "Partnering with Accenture on embedded evaluation",
-    "updated": "2026-10-19T23:06:20.000Z",
+    "updated": "2026-11-13T22:37:05.618Z",
     "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
   },
   "acquires-vercept": {
@@ -100,7 +100,7 @@
     "published": "2025-07-23T18:03:34.000Z",
     "summary": "We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic’s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons.",
     "title": "Activating AI Safety Level 3 protections",
-    "updated": "2026-10-06T18:36:30.000Z",
+    "updated": "2026-11-13T22:37:05.586Z",
     "url": "https://www.anthropic.com/news/activating-asl3-protections"
   },
   "advancing-claude-for-education": {
@@ -156,7 +156,7 @@
     "published": "2026-10-15T17:58:04.956134+00:00",
     "summary": "Anthropic announces updates to embedding independent evaluators",
     "title": "Anthropic update on independent evaluators",
-    "updated": "2026-10-20T03:29:34.000Z",
+    "updated": "2026-11-13T22:37:05.627Z",
     "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
   },
   "announcements": {
@@ -340,7 +340,7 @@
     "published": "2026-10-20T18:16:20.575112+00:00",
     "summary": "The Anthropic Institute investigates AI's impact on the world from within a frontier lab. Here are the questions driving its agenda.",
     "title": "Focus areas for The Anthropic Institute",
-    "updated": "2026-10-14T18:07:49.000Z",
+    "updated": "2026-11-13T22:37:05.584Z",
     "url": "https://www.anthropic.com/news/anthropic-institute-agenda"
   },
   "anthropic-invests-50-billion-in-american-ai-infrastructure": {
@@ -356,7 +356,7 @@
     "published": "2025-09-08T12:17:10.000Z",
     "summary": "Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic.",
     "title": "Anthropic is endorsing SB 53",
-    "updated": "2026-10-14T16:59:30.000Z",
+    "updated": "2026-11-13T22:37:05.632Z",
     "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
   },
   "anthropic-kpmg": {
@@ -572,7 +572,7 @@
     "published": "2025-07-23T18:03:47.000Z",
     "summary": "Build AI in America: Anthropic Energy Report",
     "title": "Build AI in America: Anthropic Energy Report",
-    "updated": "2026-10-14T17:07:50.000Z",
+    "updated": "2026-11-13T22:37:05.587Z",
     "url": "https://www.anthropic.com/news/build-ai-in-america"
   },
   "building-safeguards-for-claude": {
@@ -596,7 +596,7 @@
     "published": "2024-12-19T18:52:16.000Z",
     "summary": "In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We hope this post is helpful for other companies trying to red team their AI systems, policymakers curious about how red teaming works in practice, and organizations that want to red team AI technology.",
     "title": "Challenges in Red Teaming AI Systems",
-    "updated": "2026-10-15T06:24:03.000Z",
+    "updated": "2026-11-13T22:37:05.608Z",
     "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
   },
   "charting-a-path-to-ai-accountability": {
@@ -660,7 +660,7 @@
     "published": "2025-08-28T15:58:52.000Z",
     "summary": "Introducing Claude 3.5 Sonnet—our most intelligent model yet. Sonnet now outperforms competitor models and Claude 3 Opus on key evaluations, at twice the speed.",
     "title": "Introducing Claude 3.5 Sonnet",
-    "updated": "2026-10-15T06:24:58.000Z",
+    "updated": "2026-11-13T22:37:05.593Z",
     "url": "https://www.anthropic.com/news/claude-3-5-sonnet"
   },
   "claude-3-7-sonnet": {
@@ -980,7 +980,7 @@
     "published": "2026-06-30T21:20:30.000Z",
     "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
     "title": "Introducing Claude Sonnet 5",
-    "updated": "2026-10-14T05:02:58.000Z",
+    "updated": "2026-11-13T22:37:05.598Z",
     "url": "https://www.anthropic.com/news/claude-sonnet-5"
   },
   "claude-text-watermark": {
@@ -1076,7 +1076,7 @@
     "published": "2026-10-20T18:16:21.226814+00:00",
     "summary": "Anthropic commits to preserving the weights of all publicly released Claude models and interviewing retiring models about their preferences.",
     "title": "Commitments on model deprecation and preservation",
-    "updated": "2026-09-28T03:21:36.000Z",
+    "updated": "2026-11-13T22:37:05.607Z",
     "url": "https://www.anthropic.com/news/deprecation-commitments"
   },
   "deprecation-updates-opus-3": {
@@ -1108,7 +1108,7 @@
     "published": "2025-08-27T10:11:24.000Z",
     "summary": "Anthropic's threat intelligence report on AI cybercrime and other abuses",
     "title": "Detecting and countering misuse of AI: August 2025",
-    "updated": "2026-10-14T20:42:35.000Z",
+    "updated": "2026-11-13T22:37:05.593Z",
     "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"
   },
   "developing-computer-use": {
@@ -1148,7 +1148,7 @@
     "published": "2026-02-12T14:45:37.000Z",
     "summary": "Donating to a 501(c)(4) focused on AI issues in the public interest",
     "title": "Anthropic is donating $20 million to Public First Action",
-    "updated": "2026-09-28T03:21:25.000Z",
+    "updated": "2026-11-13T22:37:05.587Z",
     "url": "https://www.anthropic.com/news/donate-public-first-action"
   },
   "donating-agent-skills-to-the-agentic-ai-foundation": {
@@ -1188,7 +1188,7 @@
     "published": "2026-07-22T17:12:31.841723+00:00",
     "summary": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research.",
     "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
-    "updated": "2026-10-14T05:11:00.000Z",
+    "updated": "2026-11-13T22:37:05.603Z",
     "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
   },
   "economic-futures-uk-europe": {
@@ -1492,7 +1492,7 @@
     "published": "2026-09-01T01:34:06.989648+00:00",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Improving our alignment and security practices",
-    "updated": "2026-10-14T04:47:34.000Z",
+    "updated": "2026-11-13T22:37:05.594Z",
     "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
   },
   "improving-fable-5-s-biology-safeguards": {
@@ -1500,7 +1500,7 @@
     "published": "2026-08-07T03:46:47.466623+00:00",
     "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
     "title": "Improving Fable 5 Safeguards",
-    "updated": "2026-11-13T17:02:43.433Z",
+    "updated": "2026-11-13T22:37:05.617Z",
     "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
   },
   "introducing-anthropic-labs": {
@@ -1580,7 +1580,7 @@
     "published": "2026-07-31T02:23:32.882031+00:00",
     "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "updated": "2026-10-14T04:49:06.000Z",
+    "updated": "2026-11-13T22:37:05.585Z",
     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
   },
   "investing-in-energy-to-secure-america-s-ai-future": {
@@ -1780,7 +1780,7 @@
     "published": "2025-07-23T18:04:25.000Z",
     "summary": "Learn about Anthropic's comprehensive framework for identifying, classifying, and mitigating potential harms from AI systems, ensuring responsible development of advanced AI technology.",
     "title": "Understanding and Addressing AI Harms",
-    "updated": "2026-10-15T05:57:13.000Z",
+    "updated": "2026-11-13T22:37:05.631Z",
     "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
   },
   "our-framework-for-developing-safe-and-trustworthy-agents": {
@@ -1900,7 +1900,7 @@
     "published": "2026-02-03T22:04:42.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Protecting the wellbeing of our users",
-    "updated": "2026-10-14T23:53:33.000Z",
+    "updated": "2026-11-13T22:37:05.622Z",
     "url": "https://www.anthropic.com/news/protecting-well-being-of-users"
   },
   "public-benefit-fund": {
@@ -1980,7 +1980,7 @@
     "published": "2026-02-25T23:57:06.000Z",
     "summary": "An update to Anthropic's policy to mitigate catastrophic risks from AI",
     "title": "Responsible Scaling Policy Version 3.0",
-    "updated": "2026-10-19T23:06:18.000Z",
+    "updated": "2026-11-13T22:37:05.591Z",
     "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3"
   },
   "roadshow-launch": {
@@ -2036,7 +2036,7 @@
     "published": "2025-07-23T18:03:43.000Z",
     "summary": "Anthropic submits detailed recommendations for strengthening US export controls on advanced AI chips and model weights. We advocate for maintaining America's compute advantage, adjusting tiering systems, and reducing no-license thresholds to secure AI leadership.",
     "title": "Anthropic's AI Export Controls Framework Response",
-    "updated": "2026-10-19T23:05:57.000Z",
+    "updated": "2026-11-13T22:37:05.607Z",
     "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"
   },
   "security": {
@@ -2228,7 +2228,7 @@
     "published": "2025-07-23T11:44:44.000Z",
     "summary": "A targeted approach to increasing transparency in frontier AI development, focusing on safety standards and accountability measures for advanced AI systems.",
     "title": "A framework for AI development transparency",
-    "updated": "2026-09-28T03:21:33.000Z",
+    "updated": "2026-11-13T22:37:05.606Z",
     "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"
   },
   "theo-hourmouzis-general-manager-australia-new-zealand": {
@@ -2252,7 +2252,7 @@
     "published": "2025-11-20T16:26:24.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "Thoughts on America’s AI Action Plan",
-    "updated": "2026-10-14T17:10:36.000Z",
+    "updated": "2026-11-13T22:37:05.606Z",
     "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"
   },
   "tino-cuellar": {
@@ -2300,7 +2300,7 @@
     "published": "2024-10-08T18:29:46.000Z",
     "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "title": "U.S. Elections Readiness",
-    "updated": "2026-10-06T18:03:48.000Z",
+    "updated": "2026-11-13T22:37:05.604Z",
     "url": "https://www.anthropic.com/news/us-elections-readiness"
   },
   "usage-policy-update": {
@@ -2332,7 +2332,7 @@
     "published": "2026-08-25T16:31:00.565913+00:00",
     "summary": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
     "title": "Funding better evaluations of AI’s impact on wellbeing",
-    "updated": "2026-10-14T05:08:36.000Z",
+    "updated": "2026-11-13T22:37:05.598Z",
     "url": "https://www.anthropic.com/news/wellbeing-research-grants"
   },
   "where-stand-department-war": {
