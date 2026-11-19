@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://elmertucker.github.io/claude-watcher/</id>
   <title>Anthropic News (unofficial)</title>
-  <updated>2026-11-10T18:25:54.811016+00:00</updated>
+  <updated>2026-11-19T01:38:15.167019+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,6 +11,16 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://www.anthropic.com/favicon.ico</logo>
   <subtitle>Announcements from anthropic.com/news, built hourly from the sitemap.</subtitle>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</id>
+    <title>Anthropic prices initial public offering</title>
+    <updated>2026-11-18T23:26:25.522000+00:00</updated>
+    <content>Today Anthropic, PBC priced its initial public offering of its Class A common stock.</content>
+    <link href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering"/>
+    <link href="https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg"/>
+    <summary>Today Anthropic, PBC priced its initial public offering of its Class A common stock.</summary>
+    <published>2026-11-19T01:38:15.167019+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/roadshow-launch</id>
     <title>Anthropic launches roadshow for proposed initial public offering</title>
@@ -294,7 +304,7 @@
   <entry>
     <id>https://www.anthropic.com/news/cyber-verification-program</id>
     <title>Expanding the Cyber Verification Program</title>
-    <updated>2026-10-14T05:06:10+00:00</updated>
+    <updated>2026-11-18T21:55:37.420000+00:00</updated>
     <content>We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</content>
     <link href="https://www.anthropic.com/news/cyber-verification-program"/>
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather"/>
@@ -500,15 +510,5 @@
     <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral"/>
     <summary>We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly.</summary>
     <published>2026-07-22T17:12:27.428275+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/donation-public-first-action</id>
-    <title>Donating another $20 million to Public First Action</title>
-    <updated>2026-09-28T03:21:32+00:00</updated>
-    <content>Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million.</content>
-    <link href="https://www.anthropic.com/news/donation-public-first-action"/>
-    <link href="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat"/>
-    <summary>Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million.</summary>
-    <published>2026-07-22T11:04:56.093020+00:00</published>
   </entry>
 </feed>

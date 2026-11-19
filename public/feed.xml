@@ -13,7 +13,15 @@
       <link>https://elmertucker.github.io/claude-watcher/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:38:15 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic prices initial public offering</title>
+      <link>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</link>
+      <description>Today Anthropic, PBC priced its initial public offering of its Class A common stock.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-prices-initial-public-offering</guid>
+      <enclosure url="https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Nov 2026 01:38:15 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic launches roadshow for proposed initial public offering</title>
       <link>https://www.anthropic.com/news/roadshow-launch</link>
@@ -405,14 +413,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-economic-index-connector</guid>
       <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 17:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donating another $20 million to Public First Action</title>
-      <link>https://www.anthropic.com/news/donation-public-first-action</link>
-      <description>Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/donation-public-first-action</guid>
-      <enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 11:04:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
